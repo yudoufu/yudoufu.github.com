@@ -1,0 +1,932 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>mysql casual talks vol.3にいってきた。 - (」・ω・)」うー!(/・ω・)/にゃー!</title>
+  <meta name="author" content="yudoufu">
+
+  
+  <meta name="description" content="メモメモ。
+全体を通して実にカジュアルだった。 山岡「どうやらみなさんは本当のカジュアルなMySQLを知らないらしい。4/19(木) 19:30に来てください。本物のカジュアルをお目にかけてみせますよ」 Decolog 女子いっぱい
+うらやm。。。 Decolog構成 500強のサーバ &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://yudoufu.github.com/blog/2012/04/22/mysql-casual">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="(」・ω・)」うー!(/・ω・)/にゃー!" type="application/atom+xml">
+  <script type="text/javascript" src="http://s.hatena.ne.jp/js/HatenaStar.js"></script>
+<script type="text/javascript">
+    Hatena.Star.Token = '13ddf8d91a044cc49bfdb2322e3dd5cb99fec59c';
+    Hatena.Star.SiteConfig = {
+        entryNodes: {
+            'article': {
+                uri: 'h1 a',
+                title: 'h1',
+                container: 'p.meta'
+            }
+        }
+    };
+</script>
+<!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">(」・ω・)」うー!(/・ω・)/にゃー!</a></h1>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:yudoufu.github.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+    <h1 class="entry-title"><a href="">Mysql Casual Talks vol.3にいってきた。</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-04-22T16:23:00+09:00" pubdate data-updated="true">Apr 22<span>nd</span>, 2012</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>メモメモ。
+全体を通して実にカジュアルだった。</p>
+
+<h2>山岡「どうやらみなさんは本当のカジュアルなMySQLを知らないらしい。4/19(木) 19:30に来てください。本物のカジュアルをお目にかけてみせますよ」</h2>
+
+<h3>Decolog</h3>
+
+<ul>
+<li>女子いっぱい</li>
+<li>うらやm。。。</li>
+</ul>
+
+
+<h3>Decolog構成</h3>
+
+<ul>
+<li>500強のサーバ 200以上はmysql</li>
+<li><p>３人で開発運用</p></li>
+<li><p>AWS使ってる</p></li>
+</ul>
+
+
+<h3>なぜMySQL？</h3>
+
+<ul>
+<li>だいたいRDBMSでたりる。</li>
+<li>使い方がわかりやすいのがいい</li>
+<li>Decologではそんな難しい事はしてない。</li>
+</ul>
+
+
+<h2>こんな僕でも1億枚捌けた &ndash; 30days albumインフラ成長の歴史</h2>
+
+<ul>
+<li>ペパボのインフラの人
+
+<ul>
+<li>もとレン鯖の管理者</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>今日話すサービス</h3>
+
+<ul>
+<li>30d.jp</li>
+<li>写真保存共有サービス</li>
+<li>累計１億枚超えた</li>
+<li>202TB</li>
+<li>mysqlの話は少ないです。</li>
+</ul>
+
+
+<h3>スキップ！！！</h3>
+
+<h3>史上最大のピンチ</h3>
+
+<ul>
+<li>急に重くなった気が</li>
+<li>ぎりぎりアラートこない程度の高負荷</li>
+<li><p>予想外の増加ペースに。</p></li>
+<li><p>週末の増加ペースが１&minus;２TB/day</p></li>
+<li>appサーバとDBどちらもHWの限界に。</li>
+</ul>
+
+
+<h3>どうにかするために</h3>
+
+<ul>
+<li>apache/passengerのチューニング</li>
+<li>staticファイルをnginxに。</li>
+<li><p>DBにindexたしたけど効果なし。</p></li>
+<li><p>サーバ発注したけど数週間。</p></li>
+<li><p>EC2をつかおう！</p></li>
+<li>EC2上に構成を作って、参照のみそっちに流した。</li>
+<li>子、孫スレーブをEC2上に作った</li>
+</ul>
+
+
+<h3>孫スレーブが必要だった理由</h3>
+
+<ul>
+<li>masterが限界</li>
+<li>子slaveが他の機能もになってるので、あまり負荷かけたくない。</li>
+</ul>
+
+
+<h3>子スレーブの作成</h3>
+
+<ul>
+<li>xtrabackup で作成</li>
+<li>internetを通してreplするのでSSLで接続</li>
+<li><p>孫slaveはEBSスナップショットで。</p></li>
+<li><p>これでとりあえず乗り切った</p></li>
+</ul>
+
+
+<h3>サーバが納品</h3>
+
+<ul>
+<li>appサーバを増強</li>
+<li>したら、DBに負担がかかって応答なくなってappもサチった</li>
+<li>DBも増強。</li>
+<li>平和になった</li>
+</ul>
+
+
+<h3>まとめ</h3>
+
+<ul>
+<li>パフォーマンス監視だけは忘れずに</li>
+<li>SSDすごい</li>
+<li>足回りのDBは早めに。</li>
+</ul>
+
+
+<h2>データセンター間でMySQLをカジュアルにアップグレードしたお話</h2>
+
+<ul>
+<li>n0tsさん</li>
+</ul>
+
+
+<h3>今日の話</h3>
+
+<ul>
+<li>大人の事情でDC移行</li>
+<li>MySQLもupgradeしたのでその話</li>
+</ul>
+
+
+<h3>サービス規模</h3>
+
+<ul>
+<li>広告サービス</li>
+<li>X000 req/sec</li>
+</ul>
+
+
+<h3>構成</h3>
+
+<ul>
+<li>MySQL 5.0.XXを使ってた</li>
+<li>移行前後で構成は特に変えない</li>
+</ul>
+
+
+<h3>DC間レプリケーション</h3>
+
+<ul>
+<li>SSLレプリケーションなぜか失敗</li>
+<li>5.0.58 へ 5.5.Xへつなごうとしてたら失敗</li>
+<li>仕方ないので、SSHトンネルで結んだ</li>
+</ul>
+
+
+<h3>きりかえ</h3>
+
+<ul>
+<li>両方のDCに流れても大丈夫なように構成して、DNSラウンドロビンした</li>
+<li><p>その後、DNSラウンドロビンをやめて切り替えた。</p></li>
+<li><p>なんとか問題なくversion up完了。</p></li>
+</ul>
+
+
+<h2>MySQL Casual な生活</h2>
+
+<ul>
+<li>hatakさん</li>
+<li>コロプらの人</li>
+</ul>
+
+
+<h3>コロプラについて</h3>
+
+<ul>
+<li>コロニーな生活プラス
+
+<ul>
+<li>位置情報サービスのプラットフォーム</li>
+</ul>
+</li>
+<li>ユーザ250万人</li>
+<li>月間37億PV</li>
+</ul>
+
+
+<h3>構成</h3>
+
+<ul>
+<li>CentOS 5/6</li>
+<li>Java/PHP</li>
+<li>MySQL 5.1/5.5</li>
+<li>ほぼInnoDB</li>
+<li>master / slave 1:n</li>
+</ul>
+
+
+<h3>mysql 5.5</h3>
+
+<ul>
+<li>InnoDBのパフォーマンスとutf8mb4が使いたかった。</li>
+<li>どれくらい変わったのか。。。はそんなに。</li>
+</ul>
+
+
+<h3>メンテナンスな話</h3>
+
+<ul>
+<li>DBには運用が必要</li>
+<li>Slaveは割と簡単に入れ替え可能</li>
+<li><p>Masterは面倒</p>
+
+<ul>
+<li>やたらとやると刺さる</li>
+<li>サービス停止はそれはそれで面倒</li>
+</ul>
+</li>
+<li><p>よくやるのはオンラインマスタ入れ替え</p></li>
+<li><p>丸ごと同じセットを作り、ごそっと入れ替える。</p>
+
+<ul>
+<li>同じ台数だけセットが必要になるのがデメリット。</li>
+</ul>
+</li>
+<li><p>注意すべきところ</p>
+
+<ul>
+<li>新Masterの方で、auto_incrementの値を増やしておく
+
+<ul>
+<li>重複を防ぐため。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>preload</p>
+
+<ul>
+<li>全件SELECTするというてもある
+
+<ul>
+<li>blackhole Engineを使う手も。</li>
+</ul>
+</li>
+<li>現実に即した形でやりたい</li>
+<li>tcpdump + pt-query-digest</li>
+</ul>
+</li>
+<li><p>気をつけるところ</p>
+
+<ul>
+<li>mk-slave-moveでつなぎ変えるとかもあり。</li>
+<li>極力新しいMasterに早く切り替えられるようにする。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>チューニングな話</h3>
+
+<ul>
+<li>突発的に高まる事がある</li>
+<li><p>最初のボトルネックはMaster DB</p></li>
+<li><p>ひたすらmy.cnfを調整</p>
+
+<ul>
+<li>sync_binlog = 0</li>
+<li>innodb_flush_log_at_trx_commit = 0</li>
+<li>innodb_support_xa = 0</li>
+<li>信頼性は落ちるので、DBの系統によって個別に調整</li>
+</ul>
+</li>
+<li><p>diskのマウントオプションとか</p></li>
+<li><p>ライトバリアとか</p></li>
+<li><p>メモリをつめるだけ詰む</p></li>
+<li><p>ただ落とし穴が。。。</p>
+
+<ul>
+<li>からのデータにデータセットが詰まっていくとswapが。。。</li>
+</ul>
+</li>
+<li><p>本番に影響しない範囲での試行錯誤大事</p></li>
+</ul>
+
+
+<h3>障害な話</h3>
+
+<ul>
+<li>未然に防ぐ事大事</li>
+<li><p>時々巡回してチェック</p></li>
+<li><p>まずは、何が起きているか、を確認</p>
+
+<ul>
+<li>error_log</li>
+<li>show processlist</li>
+<li>slow log</li>
+<li>&#8230;</li>
+</ul>
+</li>
+<li><p>あるある障害</p>
+
+<ul>
+<li>Range Partition作り忘れ</li>
+<li>cronにしてても、移行漏れ</li>
+</ul>
+</li>
+<li><p>サーバに起因する障害</p>
+
+<ul>
+<li>show processlist でCommitがたまってる
+
+<ul>
+<li>disk I/O</li>
+</ul>
+</li>
+<li>Hwレベルでの監視も必要</li>
+<li>クエリが詰まる
+
+<ul>
+<li>indexや想定外のデータ蓄積等</li>
+</ul>
+</li>
+<li>Sleepがたまる
+
+<ul>
+<li>app側でささってしまってるとか。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>いろんな視点が大事</p>
+
+<ul>
+<li>サーバだけでなく、コードやサービスもみないといけない。</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Forcing swap in</h2>
+
+<h3>Swap Insanity</h3>
+
+<ul>
+<li>NUMAアーキテクチャによるメモリアクセスが関連してswapしちゃう</li>
+<li><p>複数CPUだと旨くメモリを使いきれずにswapしちゃう問題</p></li>
+<li><p>mysqld_safeにパッチ</p></li>
+<li><p>Masterは再起動したいけどなかなか</p>
+
+<ul>
+<li>Masterきりかえすべき</li>
+</ul>
+</li>
+<li><p>sudo /sbin/swapoff</p>
+
+<ul>
+<li>page size単位でメモリに戻される</li>
+<li>案外なんとかなっちゃっった</li>
+<li>ただの一時しのぎ</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>なんとかKitについて</h2>
+
+<ul>
+<li><p>Maatkit</p>
+
+<ul>
+<li>Percona Toolkitに組み込まれた</li>
+</ul>
+</li>
+<li><p>Percona Toolkit</p>
+
+<ul>
+<li>Maatkit / Aspersaを継承したもの</li>
+</ul>
+</li>
+<li><p>pt-mext</p>
+
+<ul>
+<li>show global statusをside-by-sideで表示してくれる</li>
+</ul>
+</li>
+<li><p>pt-online-schema-change</p></li>
+<li><p>pt-stalk</p>
+
+<ul>
+<li>トリガーを設定できて、thresholdをこえたものに対して発動できる</li>
+</ul>
+</li>
+<li><p>mk-slave-move</p>
+
+<ul>
+<li>なぜかなくなってる。</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>レプリケーションエラーから自動で復旧</h2>
+
+<h3>ある日起きた障害</h3>
+
+<ul>
+<li><p>slaveが全部とまった</p>
+
+<ul>
+<li>MySQLのbugに起因</li>
+<li>なんかいかskipしてひとまず解決</li>
+<li>&#8230;またとまった</li>
+</ul>
+</li>
+<li><p>またskipしてなんとかしたが、見地から解決まで10分ぐらいかかる</p>
+
+<ul>
+<li>これではまずい</li>
+</ul>
+</li>
+<li><p>mk-slave-restart</p>
+
+<ul>
+<li>特定のエラーを無限skipしてくれる</li>
+<li>ただ、手動なのは変わらず</li>
+</ul>
+</li>
+<li><p>logmon</p>
+
+<ul>
+<li>IBM性のツール</li>
+<li>perl</li>
+<li>エラー監視できる</li>
+</ul>
+</li>
+<li><p>logmonで監視して、止まったらmk-slave-restartを自動で発動</p>
+
+<ul>
+<li>実運用では、さらにIRCにも通知させた</li>
+<li>時々落ちるので、Supervisordでデーモン管理</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>MySQL Cluster 7.2のネタ</h2>
+
+<h3>色々告知</h3>
+
+<ul>
+<li><p>MySQL Cluster7.2が出た</p>
+
+<ul>
+<li>これはKVSだよ！</li>
+</ul>
+</li>
+<li><p>沖縄に行こう！</p>
+
+<ul>
+<li>4月頭に沖縄支部ができたよ。</li>
+<li>スピーカー募集</li>
+</ul>
+</li>
+<li><p>北海道に行こう！</p>
+
+<ul>
+<li>6月にOSC</li>
+<li>スピーカー募集</li>
+</ul>
+</li>
+<li><p>サンフランシスコにいこう！</p>
+
+<ul>
+<li>9月末にMySQL Connect</li>
+<li>5/6まで募集</li>
+<li>スピーカー募集</li>
+</ul>
+</li>
+<li><p>MySQL ビギナートーク</p>
+
+<ul>
+<li>5/29にここで。</li>
+<li>スピーカー募集</li>
+</ul>
+</li>
+<li><p>東南アジアに行こう！</p>
+
+<ul>
+<li>社員募集中</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>道具を磨くことのススメ</h2>
+
+<h3>道具を磨く</h3>
+
+<ul>
+<li><p>mymemcheck</p>
+
+<ul>
+<li>最大使用メモリを算出してくれる</li>
+</ul>
+</li>
+<li><p>MySQLTuner</p>
+
+<ul>
+<li>もうちょっと増やした方がいいかも、とかをアドバイスしてくれる。</li>
+</ul>
+</li>
+<li><p>tcpdump-&gt;pt-query-digest</p></li>
+<li><p>show profile</p></li>
+<li><p>MySQLTranCapcha</p>
+
+<ul>
+<li>まつのぶさんの。</li>
+</ul>
+</li>
+<li><p>tpc-c</p></li>
+<li><p>facebook online schema changer tool</p></li>
+<li><p>MySQL Performatnce Blog</p></li>
+</ul>
+
+
+<h2>AKBとmysql-buildの話</h2>
+
+<h3>AKBとmysql-build</h3>
+
+<ul>
+<li><p>haruna Storage Engine</p>
+
+<ul>
+<li>AKB!!</li>
+</ul>
+</li>
+<li><p>mysql-build</p>
+
+<ul>
+<li>mysqlを手元にソース持ってきてbuildしてくれるツール</li>
+<li>カジュアルに色々入れてみよう</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>自作MapReduceフレームワーク MyMR</h2>
+
+<h3>PHP と MySQLでMapReduce</h3>
+
+<ul>
+<li>MyMR
+
+<ul>
+<li>MySQLに入出力する</li>
+<li>コマンドラインで実行</li>
+<li>PHPで書く</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>RailsとMySQL</h2>
+
+<h3>RailsとMySQL</h3>
+
+<ul>
+<li>SET SQL_AUTO_IS_NULL = 0 , NAMES utf8を最初ん勝手に打ってる</li>
+<li>mysql2は実際にはprepareが実行されない</li>
+<li>自前でエスケープしないと。</li>
+<li>クエリ実行はmysql_send_query
+
+<ul>
+<li>mysql_real_queryではない。</li>
+<li>ノンブロッキングに実行するため</li>
+<li>mysql_real_queryは結果を待つ</li>
+</ul>
+</li>
+<li><p>transaction</p>
+
+<ul>
+<li>begin - commit/rollbackになる</li>
+<li>auto_commitを自動できる、とかはしない。</li>
+<li>ネストした場合は自動でsavepointをうつ</li>
+</ul>
+</li>
+<li><p>福岡でもmysql casualやるよ！</p></li>
+</ul>
+
+
+<h2>カジュアルなクエリ品質管理</h2>
+
+<h3>クエリ解析</h3>
+
+<ul>
+<li><p>増強したけどまた負荷が増えてきた</p>
+
+<ul>
+<li>V時回復</li>
+<li>クエリ品質を担保せねば。</li>
+</ul>
+</li>
+<li><p>スロークエリ解析</p>
+
+<ul>
+<li>現れだしたときにはもう。。</li>
+</ul>
+</li>
+<li><p>show processlist</p>
+
+<ul>
+<li>頻度で見るのはいい感じ</li>
+</ul>
+</li>
+<li><p>mk-query-digest</p>
+
+<ul>
+<li>tcpdump</li>
+<li>pcap形式で保存するとサイズが小さくすむ</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>続・Master n 対 Slave 1 レプリケーションの作り方</h2>
+
+<h3>n:1 repl</h3>
+
+<ul>
+<li>半年間ちゃんと動いてるよ！</li>
+<li>問題出てない！</li>
+</ul>
+
+
+<h2>fluentdとMySQL</h2>
+
+<h3>Fluentd mysql</h3>
+
+<ul>
+<li>fluentd-plugin-mysql
+
+<ul>
+<li>mysql-jsonでガツんと入れてしまうw</li>
+</ul>
+</li>
+</ul>
+
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">yudoufu</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-04-22T16:23:00+09:00" pubdate data-updated="true">Apr 22<span>nd</span>, 2012</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://yudoufu.github.com/blog/2012/04/22/mysql-casual/" data-via="yudoufu" data-counturl="http://yudoufu.github.com/blog/2012/04/22/mysql-casual/" >Tweet</a>
+  
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2012/03/07/jaws-summit-2012/" title="Previous Post: JAWS Summit 2012 の2日目レポート">&laquo; JAWS Summit 2012 の2日目レポート</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2012/04/22/new-blog/" title="Next Post: blog移行しました。">blog移行しました。 &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>About Me</h1>
+
+  <p><a href="http://twitter.com/yudoufu">@yudoufu</a>です。</p>
+
+  <p>渋谷辺りでOperation Enginnerしてます。元PHPer。Objective-Cとかもやってました。</p>
+</section>
+<section>
+  <h1><a href="/blog/archives">Recent Posts</a></h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/04/02/jobchange/">株式会社ミクシィを退職し、株式会社クロコスに入社しました。</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/05/22/qpstudy-2012-05/">qpstudy 2012.05 に参加してきた</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/05/13/gitlab-jenkins-combination/">GitLabのリポジトリをJenkinsと連動させる</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/04/28/libvirt-version/">KVMでlibvirt( < 0.8.2) を使って管理をしている場合の、マイグレーション時の注意</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/04/28/vm-mount-memo/">VM disk image の mount 方法いくつかメモ</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+<section>
+  <h1><a href="http://twitter.com/yudoufu">Latest Tweets</a></h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("yudoufu", 5, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/yudoufu" class="twitter-follow-button" data-show-count="false">Follow @yudoufu</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2013 - yudoufu -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'yudoufu';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://yudoufu.github.com/blog/2012/04/22/mysql-casual/';
+        var disqus_url = 'http://yudoufu.github.com/blog/2012/04/22/mysql-casual/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

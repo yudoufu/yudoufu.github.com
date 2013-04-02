@@ -1,0 +1,3930 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[(」・ω・)」うー!(/・ω・)/にゃー!]]></title>
+  <link href="http://yudoufu.github.com/atom.xml" rel="self"/>
+  <link href="http://yudoufu.github.com/"/>
+  <updated>2013-04-02T22:39:30+09:00</updated>
+  <id>http://yudoufu.github.com/</id>
+  <author>
+    <name><![CDATA[yudoufu]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[株式会社ミクシィを退職し、株式会社クロコスに入社しました。]]></title>
+    <link href="http://yudoufu.github.com/blog/2013/04/02/jobchange/"/>
+    <updated>2013-04-02T22:12:00+09:00</updated>
+    <id>http://yudoufu.github.com/blog/2013/04/02/jobchange</id>
+    <content type="html"><![CDATA[<p>新年度ですね。4/2ですね。エイプリルフール終わりましたね。
+もう既にご存じの方も多いかと思いますが、3/31をもって前職のミクシィを退職し、4/1よりクロコスにJoinすることになりました。</p>
+
+<p>そして今日いきなりセキュリティカード忘れて遅刻しましたごめんなさい。</p>
+
+<h3>クロコスへの入社について</h3>
+
+<p>株式会社クロコスは、ソーシャルメディア上でのオンラインマーケティングの企画やツール提供、活用支援などを主要事業とする会社です。
+日本初のFacebook認定マーケティングデベロッパーでもあり、マーケティング支援ツールの他にも色々なFacebookアプリなども展開しています。</p>
+
+<p>おそらく、自分とクロコスの前身であるnequalの関係について知っている人からすると、あんまり驚きもない話かもしれません。
+色々と自分の中でも考えるところは多かったのですが、最終的に決断したのは、楽しい方を選ぼう・人生の最後で後悔しないようにしよう、という思いからです。</p>
+
+<p>元々、自分は大規模なインフラ/トラフィックに関わりたい、運用者としてのスキルをもっと磨きたいという欲求が強く、どうしてもクロコスの事業からは縁遠いものになりがちだったので、楽しそうとは思いつつもJoinすることは無いだろうと考えていました。</p>
+
+<p>ただ、クロコスの買収の話もあり、メンバーと話をしているうちに「あー、このメンバーがみんな揃って仕事をするタイミングって、今しかないんだろうな。」という感覚を感じたことで、自分の人生でスキルやキャリアというもの以上にもっと大事にしたいものが今あるかもしれないな、と感じるようになりました。</p>
+
+<p>それを感じたことで、こんなにも縁のあるメンバーと今働いておかないと、きっと僕は後で後悔する気がしたのです。
+自分の目指すキャリアプランやスキルセットとは若干離れることにはなりますが、後悔のない生き方のために計画的な生き方よりも「楽しい方」をチョイスしてみようと思って、クロコスにJoinする決断をしました。</p>
+
+<h3>ミクシィについて</h3>
+
+<p>株式会社ミクシィ。。。については、自分が紹介するまでもないかと思います。オレンジ色のSNSです。</p>
+
+<p>前前職では要件定義〜開発、運用っぽいことまでひと通り経験させてもらっていたのですが、その中で、コンピュータをもっとつかいきりたい！もっと巨大なトラフィックと戦いたい！という思いが高まり、どうせやるなら規模のあるところ！と思って運用エンジニアとしてミクシィの中へ飛び込みました。</p>
+
+<p>当時の自分は本格的な運用経験など無いに等しかったので、そんな自分を受け入れてくれたミクシィ社には感謝しています。
+入ってからは本当に勉強の連続でしたが、非常にレベルの高いチームメンバーに囲まれ、自分も様々な面で大きく成長させていただきました。</p>
+
+<p>自分のいたアプリ運用グループは実にバラエティ豊かなチームで、少しずつ専門性/指向性が違うメンバーが揃っていてとてもバランスよいチームになっていたと思います。
+スキル面・思考面いずれをとっても尊敬できるエンジニアの方が何人もいて、あのチームに在籍できたことは、自分にとって、とても貴重な経験でした。</p>
+
+<p>自分の退職に際しても、大きな体制変革の最中にも関わらず自分の希望を聞いて送り出してくださり、感謝の念に堪えません。
+本当にありがとうございました。</p>
+
+<h3>というわけで</h3>
+
+<p>恥ずかしながら、一度は去ったはずのPHP界隈へ戻ってきてしまいました（笑）
+僕PHPerじゃありません＞＜とか言ってたはずなんですけどねぇ。。。</p>
+
+<p>とはいえ、ミクシィで様々な経験をさせていただいたことで、エンジニアとしてさらにボキャブラリを増やすことができたので、今までよりも幅広く活動できるように頑張ろうと思います。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[qpstudy 2012.05 に参加してきた]]></title>
+    <link href="http://yudoufu.github.com/blog/2012/05/22/qpstudy-2012-05/"/>
+    <updated>2012-05-22T23:39:00+09:00</updated>
+    <id>http://yudoufu.github.com/blog/2012/05/22/qpstudy-2012-05</id>
+    <content type="html"><![CDATA[<p>新入社員でもなんでもないけど参加してきた。
+個人的には、計算機科学は勉強したことなかったので、全然知らない考え方も多く、いい取っ掛かりを得られた、大変参考になる勉強会だった。</p>
+
+<h3>ハードウェアについて</h3>
+
+<p>コンピュータの５大要素</p>
+
+<ul>
+<li>入力・記憶・演算・制御・出力
+
+<ul>
+<li>寸劇ｗｗｗ</li>
+</ul>
+</li>
+<li><p>ノイマン型コンピュータ</p>
+
+<ul>
+<li>昔からこの基本構造は変わっていない。</li>
+</ul>
+</li>
+<li><p>仕事の中でのハードウェア</p></li>
+<li><p>ボトルネック調査</p>
+
+<ul>
+<li>CPU</li>
+<li>memory</li>
+<li>Disk IO(補助記憶)</li>
+</ul>
+</li>
+<li><p>効率の良いアーキテクチャ</p>
+
+<ul>
+<li>ハードウェアをよく知る</li>
+</ul>
+</li>
+<li><p>効率がいい、とは？</p>
+
+<ul>
+<li>アーキテクチャから見て効率がいい</li>
+<li>コンピュータのきもちを知ること。
+
+<ul>
+<li>どのように動いているのか？</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>CPU の話</h3>
+
+<ul>
+<li><p>Control Unit + 演算装置 = CPU</p></li>
+<li><p>5大要素とあわせて</p>
+
+<ul>
+<li>Processer</li>
+<li>Program</li>
+<li>Data</li>
+</ul>
+</li>
+<li><p>CPU</p>
+
+<ul>
+<li>Address Busで指定した場所に、Data Busカラデータが流れる。</li>
+</ul>
+</li>
+<li><p>CPUの４つの原則</p>
+
+<ul>
+<li>時間軸に合わせて４つの仕事をする
+
+<ul>
+<li>Fetch</li>
+<li>Decode</li>
+<li>Execute</li>
+<li>Write back</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Fetch</p>
+
+<ul>
+<li>主記憶からのデータの取り出し</li>
+</ul>
+</li>
+<li><p>Decode</p>
+
+<ul>
+<li>回路で実行できる内容に変換</li>
+</ul>
+</li>
+<li><p>Execute</p>
+
+<ul>
+<li>その内容を下に、回路上で実行</li>
+</ul>
+</li>
+<li><p>Write back (or store)</p>
+
+<ul>
+<li>結果を戻す</li>
+<li>原則に含まれないこともある。</li>
+</ul>
+</li>
+<li><p>これらがCPU Clockにあわせて動作している。</p></li>
+<li><p>CPU Clock</p>
+
+<ul>
+<li>水晶(クリスタル)に電圧をかけると、一定周期のOn/Offの波形が出てくる。</li>
+<li>このクロックに合わせて命令を実行する。</li>
+<li>市場に出ているCPUの中では、最速は5.2GHz</li>
+</ul>
+</li>
+<li><p>高速化の方法</p>
+
+<ul>
+<li>Pipeline
+
+<ul>
+<li>GPUのような計算し続けるものには効果が高い。</li>
+<li>プログラムの動きによっては、パイプラインの途中で無駄が発生してしまって、効果が少ない。</li>
+</ul>
+</li>
+<li>Super Scalar
+
+<ul>
+<li>いっぺんに計算してしまえ！というもの</li>
+</ul>
+</li>
+<li>Out of Order
+
+<ul>
+<li>遅い処理(memoryからの読み込み)などは他の命令と並行してやってしまってもいいよね、というやり方。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>CISC vs RISC</p>
+
+<ul>
+<li>CISC - いろんな命令セットを回路で実装する考え方
+
+<ul>
+<li>でも、実は利用頻度の高い命令は限られていた。</li>
+</ul>
+</li>
+<li>RISC - 利用頻度の高い命令セットのみで、プログラム側でそれを組み合わせて使う考え方。</li>
+<li>今は、CPUの中で命令セットはCISCで飛ばして、内部は実はRISCの組み合わせをしている、という実装がほとんど。</li>
+</ul>
+</li>
+<li><p>Peak CPU Clocks</p>
+
+<ul>
+<li>クロックを上げていくのは、とてもコストがかかるようになってきたので、コア数増やす方向に進んでる。</li>
+</ul>
+</li>
+<li><p>で、ぶっちゃけどう動いてるの？</p></li>
+<li><p>Z80 CPU</p>
+
+<ul>
+<li>今日はコレで考える。</li>
+</ul>
+</li>
+<li><p>bit width?</p>
+
+<ul>
+<li>レジスタやバスの幅で決まることが殆ど</li>
+</ul>
+</li>
+<li><p>マシン語</p>
+
+<ul>
+<li>を学びたいが。。。つらいのでｗ</li>
+</ul>
+</li>
+<li><p>アセンブラ</p></li>
+<li><p>register vs memory</p>
+
+<ul>
+<li>CPUで実行する際には、memoryから一旦registerに持ってきて実行している。</li>
+<li>コレをどう使うか？がアセンブラの醍醐味</li>
+<li>Z80のレジスタは8bit。場合によって2つ合わせて16bitの命令セットとして扱うこともある。</li>
+</ul>
+</li>
+<li><p>Endian</p>
+
+<ul>
+<li>big endian - 順番通りにレジスタに入る。ABCD -> ABCD</li>
+<li>little endian - 順番がひっくり返る。 ABCD -> CDAB</li>
+</ul>
+</li>
+<li><p>Accumulator</p>
+
+<ul>
+<li>何かを計算するときはここを使うレジスタ</li>
+</ul>
+</li>
+<li><p>Status (flag) Register</p>
+
+<ul>
+<li>計算した結果や特定の命令セットの結果が反映されるflagがあるレジスタ</li>
+</ul>
+</li>
+<li><p>どんな命令セットがあるか。</p></li>
+<li>5 functions
+
+<ul>
+<li>Data transfer</li>
+<li>Data Processing
+
+<ul>
+<li>Z80は足し算とshift rotateぐらいしかない</li>
+</ul>
+</li>
+<li>Test and Jump</li>
+<li>Input / Output</li>
+<li>Control
+
+<ul>
+<li>制御コード</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>1単位時間あたりに実行されているのは、これらの命令のどれか。</p></li>
+<li><p>引き算はどうするか</p>
+
+<ul>
+<li>２の補数をとって負の数との足し算をしていた。</li>
+</ul>
+</li>
+<li><p>ニーモニックとオペランド</p></li>
+<li><p>まとめ</p>
+
+<ul>
+<li>アセンブラ</li>
+<li>英語大事</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>I/O入門</h3>
+
+<ul>
+<li><p>I/Oとは</p>
+
+<ul>
+<li>コンピュータで必ずしも必要ではないパート</li>
+<li>なしでも計算はできる
+
+<ul>
+<li>とはいえ、ないと使えたものではない。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>I/Oの基本</p>
+
+<ul>
+<li>IA-32の入出力
+
+<ul>
+<li>I/Oポート</li>
+<li>割り込み</li>
+<li>DMA</li>
+<li>メモリマップドI/O</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>IOポート</p>
+
+<ul>
+<li>最も単純な入出力</li>
+<li>このportに対して何かデータを送れば、(なんだかはわからないけど)その先のデバイスに送られる。</li>
+<li>逆に読み出しをするときはポートを読む</li>
+<li>基本的には8bitでのアクセス単位</li>
+<li>キーボードなど。</li>
+</ul>
+</li>
+<li><p>割り込み</p>
+
+<ul>
+<li>外から何らかの理由で入ってくる、作業を中断させる通知</li>
+<li>キーボードを押した瞬間などに反応するときは、割り込みで発生させている。</li>
+</ul>
+</li>
+<li><p>I/Oがどう使われるのか？</p>
+
+<ul>
+<li>入力装置が付いているのはわかった。どう使うか？</li>
+<li>話が変態的すぎて。。。</li>
+</ul>
+</li>
+<li><p>その他のI/O</p></li>
+<li>メモリマップドI/O
+
+<ul>
+<li>CPUの物理メモリ空間に、デバイスのメモリ空間をマッピング
+
+<ul>
+<li>CPUから直接デバイスのメモリ空間にデータを送れる。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>DMA
+
+<ul>
+<li>プロセッサがDMAコントローラに対して要求し、データ転送をそちらに任せることができる。</li>
+<li>データ転送の時間中にCPUが処理時間を食われることがない。</li>
+</ul>
+</li>
+<li><p>IRQ</p>
+
+<ul>
+<li>割り込みを送るための線</li>
+<li>しかし物理線は15本しかない。
+
+<ul>
+<li>同じ線で複数のデバイスが割り込みを入れたりする。</li>
+<li>CPU側では、どのデバイスが割り込みしてきたかわからない。。。</li>
+<li>デバイスドライバ側で、ISRレジスタというところに「どのデバイスが割り込んだか」の情報を記録して、それで判断する。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Busとは</p>
+
+<ul>
+<li>内部バス</li>
+<li>周辺回路</li>
+<li>拡張バス</li>
+</ul>
+</li>
+<li><p>PCIバス</p>
+
+<ul>
+<li>32bit,周波数33MHz, 帯域幅133MHz</li>
+<li>パラレル転送</li>
+<li>plag and play対応だったが、活線挿抜できたわけではなかった。</li>
+</ul>
+</li>
+<li>PCI-X
+
+<ul>
+<li>周波数33MHz, 帯域幅1.06GHzに拡張</li>
+<li>上位互換、だがよく物理干渉して刺せなかったりした。</li>
+</ul>
+</li>
+<li>PCI Express
+
+<ul>
+<li>シリアル転送、複数レーンを束ねて転送可能に</li>
+<li>1レーンあたり 250MB/s (1.25GHzで、1クロックあたり2bit転送してる)</li>
+<li>4レーン 1GB/s , 16レーンで4GB/s
+
+<ul>
+<li>仕様上は最大32レーン</li>
+</ul>
+</li>
+<li>活線挿抜に対応</li>
+</ul>
+</li>
+<li><p>PCI Express 2.0</p>
+
+<ul>
+<li>クロックを２倍(1.25GHz -> 2.5GHz)にして、レーンごとの転送速度も500MB/sに。</li>
+<li>MSIサポートが必須に。</li>
+</ul>
+</li>
+<li><p>MSI</p>
+
+<ul>
+<li>そもそもIRQ使わなくていいじゃん、と気づいた。</li>
+<li>IRQを使わないで、メモリ書き込みによって割り込みを通知する。
+
+<ul>
+<li>ニセのメモリ書き込みをして、CPUに割り込みと認識させる。</li>
+<li>CPUがいちいちISRを見なくていい。</li>
+</ul>
+</li>
+<li>仮想化環境では、world changeの問題が発生するため、IRQでの割り込みはすごく効率が悪い。
+
+<ul>
+<li>コレが解消できるので、仮想環境としてはすごくいい。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>CPUのインターコネクト</p>
+
+<ul>
+<li>NUMA(非対称)とUMA(対象)
+
+<ul>
+<li>今はほぼUMA</li>
+</ul>
+</li>
+<li>NUMAだと、メモリはどちらかのCPUに依存してる
+
+<ul>
+<li>下手にマルチプロセッサで使うと、１プロセッサより遅い。。。ということが発生しうる。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>QPIとHyperTransport</p>
+
+<ul>
+<li>Quick Path Interconnect</li>
+<li>下手にチューニングなしだと遅くなるかも。。という点は気をつけておく。</li>
+</ul>
+</li>
+<li><p>まとめ</p>
+
+<ul>
+<li>I/Oは必須ではないが、ないと使えないもの。</li>
+</ul>
+</li>
+<li><p>IOを勉強するには</p>
+
+<ul>
+<li>ArduinoとかPICでやると、勉強しやすい。</li>
+<li>PIC USBマイコンボードなど。</li>
+<li>もっとガチな人にはBeagleBoard
+
+<ul>
+<li>Linux Boxを手作りで作ろう。。。なんてときに。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>インターフェース入門</h3>
+
+<ul>
+<li><p>インターフェースとは</p>
+
+<ul>
+<li>２つのものの間にたって、情報をやりとりするもの。</li>
+</ul>
+</li>
+<li><p>ハードウェアインターフェース</p>
+
+<ul>
+<li>音響カプラ</li>
+<li>X.21企画</li>
+<li>RS-232C
+
+<ul>
+<li>俗に言う「シリアル端子」</li>
+<li>25 pin</li>
+<li>9pinもあるが、同期通信できない。</li>
+</ul>
+</li>
+<li>DB-60(HD60)
+
+<ul>
+<li>Cisco独自規格</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>端子数が上がった
+
+<ul>
+<li>通信速度は上がった</li>
+<li>でも、データの通信並列数は１</li>
+<li>シリアル通信</li>
+</ul>
+</li>
+<li><p>端子数が多いわけ</p>
+
+<ul>
+<li>直接データを送受信しない端子</li>
+<li>同じデータを流す端子</li>
+<li>使ってないものも。
+
+<ul>
+<li>なぜ多い？信頼性の工場のため。</li>
+</ul>
+</li>
+<li>ある程度やると、性能頭打ち。</li>
+</ul>
+</li>
+<li><p>動作周波数</p>
+
+<ul>
+<li>33MHz</li>
+<li>1cycle = 0.03 nano sec</li>
+</ul>
+</li>
+<li>SDR
+
+<ul>
+<li>Single Data Rate</li>
+<li>1cycleあたり1bitのデータ転送</li>
+<li>1周期のup /down を1bitと見る</li>
+</ul>
+</li>
+<li><p>DDR</p>
+
+<ul>
+<li>Double Data Rate</li>
+<li>1cycleの周期up downを別々のサイクルと見て、1cycle 2bitのデータを送る。</li>
+</ul>
+</li>
+<li><p>なぜ性能が頭打ちになるか？</p>
+
+<ul>
+<li>費用対効果</li>
+<li>主に、半導体性能がネックだった。</li>
+</ul>
+</li>
+<li><p>パラレル通信</p>
+
+<ul>
+<li>データを同時送受信する。</li>
+<li>IEEE 1284
+
+<ul>
+<li>RS-232Cと端子は同じ</li>
+<li>同時送受信 8bit</li>
+</ul>
+</li>
+<li>SCSI
+
+<ul>
+<li>50pin</li>
+<li>同時送受信 8bit</li>
+</ul>
+</li>
+<li>ATA
+
+<ul>
+<li>40pin</li>
+<li>16bit</li>
+</ul>
+</li>
+<li>Ultra SCSI 320
+
+<ul>
+<li>2.56Gbps</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>しかし、世界はパラレルからシリアルへ。</p>
+
+<ul>
+<li>なぜ。。？</li>
+<li>パラレルじゃダメだから戻ってきた。</li>
+<li>半導体性能のUP
+
+<ul>
+<li>動作性能UP</li>
+<li>スキュー発生率UP</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>スキューとは</p>
+
+<ul>
+<li>クロック同期型の回路において、異なるタイミングでデータ転送が行われてしまうこと。</li>
+<li>コレを回避するためには、基板設計を考え直す必要がある。
+
+<ul>
+<li>ミクロン単位で配線を設計する必要がある。。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>今流行の端子</p>
+
+<ul>
+<li>USB
+
+<ul>
+<li>端子数 4 - 9</li>
+<li>シリアル通信</li>
+</ul>
+</li>
+<li>IEEE 1394
+
+<ul>
+<li>FireWire</li>
+<li>端子数4 -9</li>
+<li>シリアル通信</li>
+</ul>
+</li>
+<li>S-ATA
+
+<ul>
+<li>端子数7</li>
+<li>シリアル通信</li>
+</ul>
+</li>
+<li>SAS
+
+<ul>
+<li>Serial Attached SCSI</li>
+<li>端子数7</li>
+<li>シリアル通信</li>
+</ul>
+</li>
+<li>Thunderbolt
+
+<ul>
+<li>20pin</li>
+<li>非同期パラレル通信</li>
+<li>内部的にはPCI Express</li>
+</ul>
+</li>
+<li>InfiniBand
+
+<ul>
+<li>4 - 48</li>
+<li>シリアル通信 (1X)</li>
+<li>非同期パラレル(2X - 12X) レーンのような考え方。</li>
+</ul>
+</li>
+<li>最近のはやりは非同期パラレル
+
+<ul>
+<li>同期しないのでスキューは発生しない。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>今日のまとめ</h3>
+
+<ul>
+<li>ハードウェアは、インフラエンジニアにとって結構重要</li>
+<li>アーキテクチャ
+
+<ul>
+<li>基本構造は昔から一緒</li>
+<li>コンピュータの気持ちになろう。</li>
+</ul>
+</li>
+<li>CPU
+
+<ul>
+<li>動作原理を知っておこう。</li>
+</ul>
+</li>
+<li>バス
+
+<ul>
+<li>データ転送をよく知っておくと、よりコンピュータを理解できる。</li>
+</ul>
+</li>
+<li><p>インターフェース</p></li>
+<li><p>気になったらどんどん自分で調べよう！</p></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[GitLabのリポジトリをJenkinsと連動させる]]></title>
+    <link href="http://yudoufu.github.com/blog/2012/05/13/gitlab-jenkins-combination/"/>
+    <updated>2012-05-13T16:28:00+09:00</updated>
+    <id>http://yudoufu.github.com/blog/2012/05/13/gitlab-jenkins-combination</id>
+    <content type="html"><![CDATA[<p>さくらVPSの移行にともなってリポジトリとかを移行する必要が出たので、
+リポジトリ管理をGitwebからGitLabに移行したんだが、そこでちょっと悩ましい問題にあたった。</p>
+
+<p>GitLabは単体で見るととっても便利だなーと思う半面、ガツガツ成長してきたプロジェクトだけあって
+まだハードコーディングになってるところや、連携部分で弱いところがあったりする。</p>
+
+<p>簡単に言うと枯れてない。まだ各所で細かーくバグっぽい。<sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup> 面白いからいいけど。
+で、今回はJenkinsとの連携の際にちょっと悩むことになった。</p>
+
+<h3>GitLabにpublic repos がない。</h3>
+
+<p>サブタイトルのとおりなんだけど。ないんです。
+なので、Jenkinsその他オートメーションツールからのcloneをするにも、他のユーザーと同様に鍵認証が必要になる。</p>
+
+<p>これ自体はgitoliteの時代からあった話ではあるんだけど、問題はリポジトリのアクセス権やらユーザーやらの管理を、
+GitLabが独自の機構で面倒見ている点。</p>
+
+<p>そのため、GitLabの仕組みの中で解決しようとすると、Jenkinsユーザを作って全てのプロジェクトにJenkinsユーザを追加しなければいけない。
+しかし、このやり方だとオートメーションツールが増えるごとにユーザーを増やして全プロジェクトにReporterとして追加。。。とかやらなきゃいけなくてすごく面倒。</p>
+
+<h3>どうしたか： Gitoliteを直接弄った。</h3>
+
+<p>しょうがないじゃなーい、と思ってGitoliteに直接jenkinsユーザを追加、systemグループを作って全リポジトリをreadonlyでアクセスさせた。
+ちなみに、gitolite.confをいじることになるけど、このファイルはGitLabがパースして書き換えをゴリゴリやるので、やたらめったらいじらないほうがいい。<sup id='fnref:2'><a href='#fn:2' rel='footnote'>2</a></sup></p>
+
+<p>gitolite-adminをいじれるのはgitlabユーザだけなので、こんな感じ。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>% sudo -u gitlab git clone git@git.example.com:gitolite-admin.git /tmp/gitolite-admin
+</span><span class='line'>% sudo -u gitlab cp /path/to/jenkins.pub /tmp/gitolite-admin/keydir/
+</span><span class='line'>% vi /tmp/gitolite-admin/conf/gitolite.conf
+</span><span class='line'>
+</span><span class='line'>(以下の様な内容を追記)
+</span><span class='line'>@system             = jenkins
+</span><span class='line'>
+</span><span class='line'>repo    @all
+</span><span class='line'>   R                              = @system
+</span><span class='line'>
+</span><span class='line'>% (以下略)</span></code></pre></td></tr></table></div></figure>
+
+
+<p>このあたりの情報は、GitLab側のパーサもエラーになることなくうまいことマージしてくれた。</p>
+
+<p>とりあえず、これなら連携するシステム系は、いちいちリポジトリに追加しまくらなくてもサクサク進められるので、よさそう。</p>
+
+<h3>で、結論として。</h3>
+
+<p>この方法がいいのかどうかは正直わからない。というか、本当はやりたくないけど仕方ない感じ。
+今の状況で言うと、正しい選択肢ってのは特にない気がする。</p>
+
+<p>今後に期待したいなー。</p>
+
+<div class="footnotes">
+    <ol>
+        <li id='fn:1'>たとえばgitoliteとは連携を謳っているにもかかわらず、インストールプロセスがg3に追随できてない。これはlib/tasks/gitlab/status.rake のumask検証部分の問題。gitlab.yamlをデフォルトのままインストールプロセスをすすめるととりあえず回避できる。<a href='#fnref:1' rev='footnote'>↩</a></li><li id='fn:2'>いじるときには、一度 lib/gitlabhq/gitolite.rbを読むといい。以前、gitoliteのwildcard reposを設定していた時に、Cなどの権限をGitLabが理解できずにパースエラーになってて参ったことがあった。。。 <a href='#fnref:2' rev='footnote'>↩</a></li>
+    </ol>
+</div>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[KVMでlibvirt( < 0.8.2) を使って管理をしている場合の、マイグレーション時の注意]]></title>
+    <link href="http://yudoufu.github.com/blog/2012/04/28/libvirt-version/"/>
+    <updated>2012-04-28T23:10:00+09:00</updated>
+    <id>http://yudoufu.github.com/blog/2012/04/28/libvirt-version</id>
+    <content type="html"><![CDATA[<p>KVMなどの仮想サーバを使って運用をする場合の一つのメリットとして、物理サーバに依存せずにマイグレーションを行える、
+という点があるのだけれど、うまく行かなくてはまった事があった。</p>
+
+<p>CentOS 5.5 on libvirtのHost上で動いていたqcow2のGuestイメージをCentOS 5.6のHostに移して動かしたら、どういうわけかうんともすんとも言わなくなった。</p>
+
+<p>その時はどうにかこうにか対策だけはできたものの、どうしてそうなったか原因を特定しきれなかったのだが、その後自分なりに調べてみて、
+最近やっと原因のコードを見つけて、対策方法とか対象になるバージョンを特定できたのでまとめた。</p>
+
+<p>おそらく間違ってないと思うけど、KVMのすべてを把握してるわけじゃないので、おかしなところ等あれば突っ込み頂けるとうれしいです。</p>
+
+<h3>結論</h3>
+
+<p>経緯とかコードとかどうでもいい人のために先に結論から。</p>
+
+<h4>対象となる環境</h4>
+
+<p>以下２点の両方に当てはまる場合、適切な対策が必要。</p>
+
+<h5>1. Guest VMにはファイルのdisk imageを使っており、raw以外の形式(qcow2など)で運用していた。</h5>
+
+<ul>
+<li>rawで扱っている場合には、問題は発生しない。
+
+<ul>
+<li>(raw deviceの場合もrawなので当然発生しない。)</li>
+</ul>
+</li>
+</ul>
+
+
+<h5>2. libvirt 0.8.2以前のHostで運用していたGuestを、libvirt 0.8.3以降のHostにマイグレーションした。</h5>
+
+<ul>
+<li>CentOS (他のRedhat系は未調査)では、5.5以前から5.6以降にが該当。
+
+<ul>
+<li>CentOS 5.6はlibvirt 0.8.2だが、該当のpatchがbackportされて当たっているため、対策が必要。</li>
+</ul>
+</li>
+<li>debian leny 以前からsqeeze以降へ</li>
+<li>Ubuntu は10.04 以前から10.10以降へ</li>
+</ul>
+
+
+<h4>対策</h4>
+
+<p>以下の２つのパターンがある。</p>
+
+<h5>1. 移植時にXMLを編集し、disk deviceの中の、driverの項目にname=&#8221;qemu&#8221; type=&#8221;qcow2&#8221; などの形式を明示するようにする。</h5>
+
+<p>明示的にフォーマットを指定する方法。
+多分こっちの方がよい。</p>
+
+<h5>2. /etc/libvirt/qemu.conf (CentOSの場合はこの場所) に<code>allow_disk_format_probing = 1</code> の項目を設定する。</h5>
+
+<p>フォーマットの自動認識を有効にする方法。
+ただしセキュリティ上のリスクを伴うので、極力やらないほうがよい。</p>
+
+<h3>経緯と原因</h3>
+
+<h4>遭遇した状況</h4>
+
+<p>仮想マシンはdisk imageファイル(qcow2圧縮)上に作成されたもので、CentOS 5.5上で使っていたxmlとともに丸っとCentOS 5.6上に移した。
+すると、qemu自体の起動はするもののdisk imageを正しく認識せず、エラーもでないまま応答しなくなってしまった。</p>
+
+<h4>原因と対処</h4>
+
+<p>原因は、libvirtのバージョンがあがる過程でdisk imageのデータ形式の判定に仕様変更が入ったことだった。</p>
+
+<p>それまでlibvirtに食わせていたXML定義の中では、disk deviceのdriver typeを明示的に指定しておらず、kvmの自動認識に任せていた。</p>
+
+<p>それが新しいバージョンのlibvirtでは「driverのtype未指定時には、デフォルトでtype=rawのパラメータを自動補完する」という仕様に変わっていたために、
+qcow2のimageをrawとして読んでしまい、認識できなくなってしまった。</p>
+
+<p>この点に気づいたため、前述の対策方法の通り、明示的にtype = qcow2を指定してやる事で問題は解決した。</p>
+
+<h4>原因になった箇所</h4>
+
+<p>どうしてこうなった、と思ったので、KVMのコードとgit logを追ってみて、どうやら下記の変更が原因のようだった。</p>
+
+<p><a href="http://libvirt.org/git/?p=libvirt.git;a=commitdiff;h=03ca42046a54c5cfadb2e69194896abf06f6a10f#patch4">libvirt.org Git - libvirt.git/commitdiff</a></p>
+
+<p>理由について詳しくは探りきれなかったのだけれど、disk imageのファイル形式を自動認識する場合にセキュリティ的な問題があるようで、
+それを防ぐためのセキュリティパッチとして、この変更を含むいくつかのFIXが行われたらしい。</p>
+
+<p>そして、disk imageの形式に明示的な指定がない場合には、qemuのraw形式としてパラメータを補完してしまうように変更になった。
+対策のところにのせた<code>allow_disk_format_probing</code>という設定は、その名の通り上記patchの<code>allowDiskFormatProbing</code>パラメータのフラグを立てるためのもので、
+デフォルトではoffになっている。</p>
+
+<p>この一連のpatchはlibvirt 0.8.3で取り込まれているので、問題が起きるのは0.8.2以前から移行してくる場合。
+例外として、CentOS 5.6では0.8.2にこのpatch群をバックポートして当ててあるため、対象に含まれる。(srpmで確認済み。)</p>
+
+<h3>というわけで。</h3>
+
+<p>変更自体はもう結構前の物なので、今更間のある話題かもしれませんが、KVM Hostを移行するなんてそんなに頻繁にやる物でもないだろうから、誰か一人の役に立つ機会でもあれば幸いです。</p>
+
+<p>しかし、libvirtって結構ログが少なくて、いつも苦労する。。。infoとか出してくれるとうれしいよね＞＜</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[VM disk image の mount 方法いくつかメモ]]></title>
+    <link href="http://yudoufu.github.com/blog/2012/04/28/vm-mount-memo/"/>
+    <updated>2012-04-28T03:51:00+09:00</updated>
+    <id>http://yudoufu.github.com/blog/2012/04/28/vm-mount-memo</id>
+    <content type="html"><![CDATA[<p>仮想マシンのdisk imageをmountしたいことってよく有るけどよく忘れるのでメモメモ。
+libguestfs使ってごにょごにょ、見たいなプログラマブルな話は含まない。</p>
+
+<h3>横着する方法</h3>
+
+<h4>KVM raw image / Xen image</h4>
+
+<p>パーティションアライメントの分を考慮すれば簡単に行ける。
+1セクタが512byteなら、</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># mount -o loop,offset=$((63*512)) /path/to/image /mnt</span></code></pre></td></tr></table></div></figure>
+
+
+<p>怒られるなら1セクタのsizeが違う可能性が高いので調べる。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># /sbin/fdisk -l /path/to/images</span></code></pre></td></tr></table></div></figure>
+
+
+<p>とかすれば、1セクタが何byteかわかる。</p>
+
+<h4>KVM qcow2 image</h4>
+
+<p>基本は同じだけど、qcow2圧縮されてるのでこれを何とかしてから処理する。
+qemu-nbdを使えば可能。
+kernel moduleとしてnbdが普通は有効になってないことが多いので、これを有効にして使う。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># modprobe nbd
+</span><span class='line'># qemu-nbd -c /dev/nbd0 /path/to/image.qcow2</span></code></pre></td></tr></table></div></figure>
+
+
+<p>これで/dev/nbd0のディスクとして見えるようになるので、あとはraw imageと同様にすればOK.</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># /sbin/fdisk -l /dev/nbd0
+</span><span class='line'># mount -o loop,offset=$((63*512)) /dev/nbd0 /mnt/</span></code></pre></td></tr></table></div></figure>
+
+
+<p>外すなら逆手順。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># umount /mnt
+</span><span class='line'># qemu-nbd -d /dev/nbd0
+</span><span class='line'># rmmod nbd</span></code></pre></td></tr></table></div></figure>
+
+
+<h3>ちゃんとやる方法</h3>
+
+<p>適当なoffsetとかでゴツンてやるんじゃなくて、真面目にやるにはどうするか。
+単に、mount -o loop,offset=&#8230;ってやらずに、kpartxとかを使ってやる、という違い。</p>
+
+<p>kpartxを使うことで、いちいちセクタサイズを気にしなくて良くなるので、自動化するならこっちが便利。</p>
+
+<h4>raw image</h4>
+
+<p>まずはループデバイスとしてmountしてから、kpartで個別のpartitionにアクセスできるようにする。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># losetup -f
+</span><span class='line'>/dev/loop0
+</span><span class='line'># losetup /dev/loop0 /path/to/image
+</span><span class='line'># kpartx -av /dev/loop0
+</span><span class='line'>add map loop0p1 (253:0): 0 51199092 linear /dev/loop0 63
+</span><span class='line'>add map loop0p2 (253:1): 0 4096575 linear /dev/loop0 51199155
+</span><span class='line'># mount /mnt /dev/mapper/loop0p1</span></code></pre></td></tr></table></div></figure>
+
+
+<p>これでアクセスできるようになる。
+外すときは以下の要領で。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># umount /mnt
+</span><span class='line'># kpart -dv /dev/loop0
+</span><span class='line'># losetup -d /dev/loop0</span></code></pre></td></tr></table></div></figure>
+
+
+<h3>qcow2 image</h3>
+
+<p>要領は同じで、losetupでやる代わりにnbdでやる感じ。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># modprobe nbd
+</span><span class='line'># qemu-nbd -c /dev/nbd0 /path/to/image.qcow2
+</span><span class='line'># kpartx -av /dev/nbd0
+</span><span class='line'>add map nbd0p1 (253:0): 0 51199092 linear /dev/nbd0 63
+</span><span class='line'>add map nbd0p2 (253:1): 0 4096575 linear /dev/nbd0 51199155
+</span><span class='line'># mount /mnt /dev/mapper/nbd0p1</span></code></pre></td></tr></table></div></figure>
+
+
+<p>これでOK。
+外すときは以下の通り。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># umount /mnt
+</span><span class='line'># kpartx -dv /dev/nbd0
+</span><span class='line'># qemu-nbd -d /dev/nbd0
+</span><span class='line'># rmmod nbd</span></code></pre></td></tr></table></div></figure>
+
+
+<p>いじょ。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[blog移行しました。]]></title>
+    <link href="http://yudoufu.github.com/blog/2012/04/22/new-blog/"/>
+    <updated>2012-04-22T19:08:00+09:00</updated>
+    <id>http://yudoufu.github.com/blog/2012/04/22/new-blog</id>
+    <content type="html"><![CDATA[<p>去年ははてダもういいやと思って何となくposterousに移行してたんだけど、デザインがいまいちしっくりこなくて誰にも告知せずに書いました。</p>
+
+<p>posterousにしてたのは、markdownでかけるところがいい、って言うのが大前提にあったから。
+はてブの時もmarkdownのメモをそのまま張るとか良くやってたけど、レポートを他の記法に直すのは面倒なのでそこにこだわって探してました。</p>
+
+<p>最近、posterousも買収されてしまったので、デザインの事もあって再度別のところに移行する事に。</p>
+
+<p>octopress使ってみたらmarkdownで書けるしデザインも割ときれいだったのでこれで行く事にしました。
+記事数がまだ少なかったので、中身も丸ごと移してきて、このままposterousはなかった事にします。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[mysql casual talks vol.3にいってきた。]]></title>
+    <link href="http://yudoufu.github.com/blog/2012/04/22/mysql-casual/"/>
+    <updated>2012-04-22T16:23:00+09:00</updated>
+    <id>http://yudoufu.github.com/blog/2012/04/22/mysql-casual</id>
+    <content type="html"><![CDATA[<p>メモメモ。
+全体を通して実にカジュアルだった。</p>
+
+<h2>山岡「どうやらみなさんは本当のカジュアルなMySQLを知らないらしい。4/19(木) 19:30に来てください。本物のカジュアルをお目にかけてみせますよ」</h2>
+
+<h3>Decolog</h3>
+
+<ul>
+<li>女子いっぱい</li>
+<li>うらやm。。。</li>
+</ul>
+
+
+<h3>Decolog構成</h3>
+
+<ul>
+<li>500強のサーバ 200以上はmysql</li>
+<li><p>３人で開発運用</p></li>
+<li><p>AWS使ってる</p></li>
+</ul>
+
+
+<h3>なぜMySQL？</h3>
+
+<ul>
+<li>だいたいRDBMSでたりる。</li>
+<li>使い方がわかりやすいのがいい</li>
+<li>Decologではそんな難しい事はしてない。</li>
+</ul>
+
+
+<h2>こんな僕でも1億枚捌けた &ndash; 30days albumインフラ成長の歴史</h2>
+
+<ul>
+<li>ペパボのインフラの人
+
+<ul>
+<li>もとレン鯖の管理者</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>今日話すサービス</h3>
+
+<ul>
+<li>30d.jp</li>
+<li>写真保存共有サービス</li>
+<li>累計１億枚超えた</li>
+<li>202TB</li>
+<li>mysqlの話は少ないです。</li>
+</ul>
+
+
+<h3>スキップ！！！</h3>
+
+<h3>史上最大のピンチ</h3>
+
+<ul>
+<li>急に重くなった気が</li>
+<li>ぎりぎりアラートこない程度の高負荷</li>
+<li><p>予想外の増加ペースに。</p></li>
+<li><p>週末の増加ペースが１&minus;２TB/day</p></li>
+<li>appサーバとDBどちらもHWの限界に。</li>
+</ul>
+
+
+<h3>どうにかするために</h3>
+
+<ul>
+<li>apache/passengerのチューニング</li>
+<li>staticファイルをnginxに。</li>
+<li><p>DBにindexたしたけど効果なし。</p></li>
+<li><p>サーバ発注したけど数週間。</p></li>
+<li><p>EC2をつかおう！</p></li>
+<li>EC2上に構成を作って、参照のみそっちに流した。</li>
+<li>子、孫スレーブをEC2上に作った</li>
+</ul>
+
+
+<h3>孫スレーブが必要だった理由</h3>
+
+<ul>
+<li>masterが限界</li>
+<li>子slaveが他の機能もになってるので、あまり負荷かけたくない。</li>
+</ul>
+
+
+<h3>子スレーブの作成</h3>
+
+<ul>
+<li>xtrabackup で作成</li>
+<li>internetを通してreplするのでSSLで接続</li>
+<li><p>孫slaveはEBSスナップショットで。</p></li>
+<li><p>これでとりあえず乗り切った</p></li>
+</ul>
+
+
+<h3>サーバが納品</h3>
+
+<ul>
+<li>appサーバを増強</li>
+<li>したら、DBに負担がかかって応答なくなってappもサチった</li>
+<li>DBも増強。</li>
+<li>平和になった</li>
+</ul>
+
+
+<h3>まとめ</h3>
+
+<ul>
+<li>パフォーマンス監視だけは忘れずに</li>
+<li>SSDすごい</li>
+<li>足回りのDBは早めに。</li>
+</ul>
+
+
+<h2>データセンター間でMySQLをカジュアルにアップグレードしたお話</h2>
+
+<ul>
+<li>n0tsさん</li>
+</ul>
+
+
+<h3>今日の話</h3>
+
+<ul>
+<li>大人の事情でDC移行</li>
+<li>MySQLもupgradeしたのでその話</li>
+</ul>
+
+
+<h3>サービス規模</h3>
+
+<ul>
+<li>広告サービス</li>
+<li>X000 req/sec</li>
+</ul>
+
+
+<h3>構成</h3>
+
+<ul>
+<li>MySQL 5.0.XXを使ってた</li>
+<li>移行前後で構成は特に変えない</li>
+</ul>
+
+
+<h3>DC間レプリケーション</h3>
+
+<ul>
+<li>SSLレプリケーションなぜか失敗</li>
+<li>5.0.58 へ 5.5.Xへつなごうとしてたら失敗</li>
+<li>仕方ないので、SSHトンネルで結んだ</li>
+</ul>
+
+
+<h3>きりかえ</h3>
+
+<ul>
+<li>両方のDCに流れても大丈夫なように構成して、DNSラウンドロビンした</li>
+<li><p>その後、DNSラウンドロビンをやめて切り替えた。</p></li>
+<li><p>なんとか問題なくversion up完了。</p></li>
+</ul>
+
+
+<h2>MySQL Casual な生活</h2>
+
+<ul>
+<li>hatakさん</li>
+<li>コロプらの人</li>
+</ul>
+
+
+<h3>コロプラについて</h3>
+
+<ul>
+<li>コロニーな生活プラス
+
+<ul>
+<li>位置情報サービスのプラットフォーム</li>
+</ul>
+</li>
+<li>ユーザ250万人</li>
+<li>月間37億PV</li>
+</ul>
+
+
+<h3>構成</h3>
+
+<ul>
+<li>CentOS 5/6</li>
+<li>Java/PHP</li>
+<li>MySQL 5.1/5.5</li>
+<li>ほぼInnoDB</li>
+<li>master / slave 1:n</li>
+</ul>
+
+
+<h3>mysql 5.5</h3>
+
+<ul>
+<li>InnoDBのパフォーマンスとutf8mb4が使いたかった。</li>
+<li>どれくらい変わったのか。。。はそんなに。</li>
+</ul>
+
+
+<h3>メンテナンスな話</h3>
+
+<ul>
+<li>DBには運用が必要</li>
+<li>Slaveは割と簡単に入れ替え可能</li>
+<li><p>Masterは面倒</p>
+
+<ul>
+<li>やたらとやると刺さる</li>
+<li>サービス停止はそれはそれで面倒</li>
+</ul>
+</li>
+<li><p>よくやるのはオンラインマスタ入れ替え</p></li>
+<li><p>丸ごと同じセットを作り、ごそっと入れ替える。</p>
+
+<ul>
+<li>同じ台数だけセットが必要になるのがデメリット。</li>
+</ul>
+</li>
+<li><p>注意すべきところ</p>
+
+<ul>
+<li>新Masterの方で、auto_incrementの値を増やしておく
+
+<ul>
+<li>重複を防ぐため。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>preload</p>
+
+<ul>
+<li>全件SELECTするというてもある
+
+<ul>
+<li>blackhole Engineを使う手も。</li>
+</ul>
+</li>
+<li>現実に即した形でやりたい</li>
+<li>tcpdump + pt-query-digest</li>
+</ul>
+</li>
+<li><p>気をつけるところ</p>
+
+<ul>
+<li>mk-slave-moveでつなぎ変えるとかもあり。</li>
+<li>極力新しいMasterに早く切り替えられるようにする。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>チューニングな話</h3>
+
+<ul>
+<li>突発的に高まる事がある</li>
+<li><p>最初のボトルネックはMaster DB</p></li>
+<li><p>ひたすらmy.cnfを調整</p>
+
+<ul>
+<li>sync_binlog = 0</li>
+<li>innodb_flush_log_at_trx_commit = 0</li>
+<li>innodb_support_xa = 0</li>
+<li>信頼性は落ちるので、DBの系統によって個別に調整</li>
+</ul>
+</li>
+<li><p>diskのマウントオプションとか</p></li>
+<li><p>ライトバリアとか</p></li>
+<li><p>メモリをつめるだけ詰む</p></li>
+<li><p>ただ落とし穴が。。。</p>
+
+<ul>
+<li>からのデータにデータセットが詰まっていくとswapが。。。</li>
+</ul>
+</li>
+<li><p>本番に影響しない範囲での試行錯誤大事</p></li>
+</ul>
+
+
+<h3>障害な話</h3>
+
+<ul>
+<li>未然に防ぐ事大事</li>
+<li><p>時々巡回してチェック</p></li>
+<li><p>まずは、何が起きているか、を確認</p>
+
+<ul>
+<li>error_log</li>
+<li>show processlist</li>
+<li>slow log</li>
+<li>&#8230;</li>
+</ul>
+</li>
+<li><p>あるある障害</p>
+
+<ul>
+<li>Range Partition作り忘れ</li>
+<li>cronにしてても、移行漏れ</li>
+</ul>
+</li>
+<li><p>サーバに起因する障害</p>
+
+<ul>
+<li>show processlist でCommitがたまってる
+
+<ul>
+<li>disk I/O</li>
+</ul>
+</li>
+<li>Hwレベルでの監視も必要</li>
+<li>クエリが詰まる
+
+<ul>
+<li>indexや想定外のデータ蓄積等</li>
+</ul>
+</li>
+<li>Sleepがたまる
+
+<ul>
+<li>app側でささってしまってるとか。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>いろんな視点が大事</p>
+
+<ul>
+<li>サーバだけでなく、コードやサービスもみないといけない。</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Forcing swap in</h2>
+
+<h3>Swap Insanity</h3>
+
+<ul>
+<li>NUMAアーキテクチャによるメモリアクセスが関連してswapしちゃう</li>
+<li><p>複数CPUだと旨くメモリを使いきれずにswapしちゃう問題</p></li>
+<li><p>mysqld_safeにパッチ</p></li>
+<li><p>Masterは再起動したいけどなかなか</p>
+
+<ul>
+<li>Masterきりかえすべき</li>
+</ul>
+</li>
+<li><p>sudo /sbin/swapoff</p>
+
+<ul>
+<li>page size単位でメモリに戻される</li>
+<li>案外なんとかなっちゃっった</li>
+<li>ただの一時しのぎ</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>なんとかKitについて</h2>
+
+<ul>
+<li><p>Maatkit</p>
+
+<ul>
+<li>Percona Toolkitに組み込まれた</li>
+</ul>
+</li>
+<li><p>Percona Toolkit</p>
+
+<ul>
+<li>Maatkit / Aspersaを継承したもの</li>
+</ul>
+</li>
+<li><p>pt-mext</p>
+
+<ul>
+<li>show global statusをside-by-sideで表示してくれる</li>
+</ul>
+</li>
+<li><p>pt-online-schema-change</p></li>
+<li><p>pt-stalk</p>
+
+<ul>
+<li>トリガーを設定できて、thresholdをこえたものに対して発動できる</li>
+</ul>
+</li>
+<li><p>mk-slave-move</p>
+
+<ul>
+<li>なぜかなくなってる。</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>レプリケーションエラーから自動で復旧</h2>
+
+<h3>ある日起きた障害</h3>
+
+<ul>
+<li><p>slaveが全部とまった</p>
+
+<ul>
+<li>MySQLのbugに起因</li>
+<li>なんかいかskipしてひとまず解決</li>
+<li>&#8230;またとまった</li>
+</ul>
+</li>
+<li><p>またskipしてなんとかしたが、見地から解決まで10分ぐらいかかる</p>
+
+<ul>
+<li>これではまずい</li>
+</ul>
+</li>
+<li><p>mk-slave-restart</p>
+
+<ul>
+<li>特定のエラーを無限skipしてくれる</li>
+<li>ただ、手動なのは変わらず</li>
+</ul>
+</li>
+<li><p>logmon</p>
+
+<ul>
+<li>IBM性のツール</li>
+<li>perl</li>
+<li>エラー監視できる</li>
+</ul>
+</li>
+<li><p>logmonで監視して、止まったらmk-slave-restartを自動で発動</p>
+
+<ul>
+<li>実運用では、さらにIRCにも通知させた</li>
+<li>時々落ちるので、Supervisordでデーモン管理</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>MySQL Cluster 7.2のネタ</h2>
+
+<h3>色々告知</h3>
+
+<ul>
+<li><p>MySQL Cluster7.2が出た</p>
+
+<ul>
+<li>これはKVSだよ！</li>
+</ul>
+</li>
+<li><p>沖縄に行こう！</p>
+
+<ul>
+<li>4月頭に沖縄支部ができたよ。</li>
+<li>スピーカー募集</li>
+</ul>
+</li>
+<li><p>北海道に行こう！</p>
+
+<ul>
+<li>6月にOSC</li>
+<li>スピーカー募集</li>
+</ul>
+</li>
+<li><p>サンフランシスコにいこう！</p>
+
+<ul>
+<li>9月末にMySQL Connect</li>
+<li>5/6まで募集</li>
+<li>スピーカー募集</li>
+</ul>
+</li>
+<li><p>MySQL ビギナートーク</p>
+
+<ul>
+<li>5/29にここで。</li>
+<li>スピーカー募集</li>
+</ul>
+</li>
+<li><p>東南アジアに行こう！</p>
+
+<ul>
+<li>社員募集中</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>道具を磨くことのススメ</h2>
+
+<h3>道具を磨く</h3>
+
+<ul>
+<li><p>mymemcheck</p>
+
+<ul>
+<li>最大使用メモリを算出してくれる</li>
+</ul>
+</li>
+<li><p>MySQLTuner</p>
+
+<ul>
+<li>もうちょっと増やした方がいいかも、とかをアドバイスしてくれる。</li>
+</ul>
+</li>
+<li><p>tcpdump-&gt;pt-query-digest</p></li>
+<li><p>show profile</p></li>
+<li><p>MySQLTranCapcha</p>
+
+<ul>
+<li>まつのぶさんの。</li>
+</ul>
+</li>
+<li><p>tpc-c</p></li>
+<li><p>facebook online schema changer tool</p></li>
+<li><p>MySQL Performatnce Blog</p></li>
+</ul>
+
+
+<h2>AKBとmysql-buildの話</h2>
+
+<h3>AKBとmysql-build</h3>
+
+<ul>
+<li><p>haruna Storage Engine</p>
+
+<ul>
+<li>AKB!!</li>
+</ul>
+</li>
+<li><p>mysql-build</p>
+
+<ul>
+<li>mysqlを手元にソース持ってきてbuildしてくれるツール</li>
+<li>カジュアルに色々入れてみよう</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>自作MapReduceフレームワーク MyMR</h2>
+
+<h3>PHP と MySQLでMapReduce</h3>
+
+<ul>
+<li>MyMR
+
+<ul>
+<li>MySQLに入出力する</li>
+<li>コマンドラインで実行</li>
+<li>PHPで書く</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>RailsとMySQL</h2>
+
+<h3>RailsとMySQL</h3>
+
+<ul>
+<li>SET SQL_AUTO_IS_NULL = 0 , NAMES utf8を最初ん勝手に打ってる</li>
+<li>mysql2は実際にはprepareが実行されない</li>
+<li>自前でエスケープしないと。</li>
+<li>クエリ実行はmysql_send_query
+
+<ul>
+<li>mysql_real_queryではない。</li>
+<li>ノンブロッキングに実行するため</li>
+<li>mysql_real_queryは結果を待つ</li>
+</ul>
+</li>
+<li><p>transaction</p>
+
+<ul>
+<li>begin - commit/rollbackになる</li>
+<li>auto_commitを自動できる、とかはしない。</li>
+<li>ネストした場合は自動でsavepointをうつ</li>
+</ul>
+</li>
+<li><p>福岡でもmysql casualやるよ！</p></li>
+</ul>
+
+
+<h2>カジュアルなクエリ品質管理</h2>
+
+<h3>クエリ解析</h3>
+
+<ul>
+<li><p>増強したけどまた負荷が増えてきた</p>
+
+<ul>
+<li>V時回復</li>
+<li>クエリ品質を担保せねば。</li>
+</ul>
+</li>
+<li><p>スロークエリ解析</p>
+
+<ul>
+<li>現れだしたときにはもう。。</li>
+</ul>
+</li>
+<li><p>show processlist</p>
+
+<ul>
+<li>頻度で見るのはいい感じ</li>
+</ul>
+</li>
+<li><p>mk-query-digest</p>
+
+<ul>
+<li>tcpdump</li>
+<li>pcap形式で保存するとサイズが小さくすむ</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>続・Master n 対 Slave 1 レプリケーションの作り方</h2>
+
+<h3>n:1 repl</h3>
+
+<ul>
+<li>半年間ちゃんと動いてるよ！</li>
+<li>問題出てない！</li>
+</ul>
+
+
+<h2>fluentdとMySQL</h2>
+
+<h3>Fluentd mysql</h3>
+
+<ul>
+<li>fluentd-plugin-mysql
+
+<ul>
+<li>mysql-jsonでガツんと入れてしまうw</li>
+</ul>
+</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[JAWS Summit 2012 の2日目レポート]]></title>
+    <link href="http://yudoufu.github.com/blog/2012/03/07/jaws-summit-2012/"/>
+    <updated>2012-03-07T12:49:00+09:00</updated>
+    <id>http://yudoufu.github.com/blog/2012/03/07/jaws-summit-2012</id>
+    <content type="html"><![CDATA[<h2>EC2</h2>
+
+<h3>HPC向け</h3>
+
+<ul>
+<li>Nehalemと同等のCPUを割り当てられるものがある。</li>
+</ul>
+
+
+<h3>リージョンとゾーン</h3>
+
+<ul>
+<li><p>リージョン</p>
+
+<ul>
+<li>世界で８か所
+
+<ul>
+<li>１か所は米国政府専用</li>
+</ul>
+</li>
+<li>どこでも自由に選んで設置できる</li>
+</ul>
+</li>
+<li><p>アベイラビリティゾーン</p>
+
+<ul>
+<li>同じリージョン内で</li>
+<li>同じリージョン内のゾーン同士は専用線で結ばれているので高速</li>
+<li>リージョン間はインターネット</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>EBS</h3>
+
+<ul>
+<li><p>外付けHTDDみたいなもの</p>
+
+<ul>
+<li>AZ単位で存在する。</li>
+<li>他のインスタンスに付け替え可能</li>
+<li>スナップショットをS3にバックアップ可能。そのバックアップから他のAZに作成することもできる。
+
+<ul>
+<li>リージョンも移動できるの？</li>
+</ul>
+</li>
+<li>複数のEC2にアタッチすることはできない。</li>
+</ul>
+</li>
+<li><p>インスタンスストレージとは？</p>
+
+<ul>
+<li>インスタンスに付属している。別途料金はかからない。</li>
+<li>寿命がインスタンス依存</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>AMI</h3>
+
+<ul>
+<li><p>EBS backed AMI</p>
+
+<ul>
+<li>EBSにAMIが保存されている。</li>
+<li>EC2を停止してもインスタンスデータが残るタイプ。</li>
+<li>stopすると停止でき、その間は課金されない。</li>
+<li>terminatすると破棄される。</li>
+</ul>
+</li>
+<li><p>S3 backed AMI</p>
+
+<ul>
+<li>昔からあるタイプ</li>
+<li>停止すると揮発する。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>セキュリティモデル</h3>
+
+<ul>
+<li>責任分担モデル。
+
+<ul>
+<li>物理インスタンス・ファイアウォールはAWS側が責任を持つ</li>
+<li>個別のインスタンスにセキュリティグループ、ファイアウォールが設定できる。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>TIPS</h3>
+
+<ul>
+<li>故障のための設計をしておく</li>
+<li>定期的なバックアップ</li>
+<li>Private IP 経由の通信を活用すると安く済む</li>
+<li>EBSは1Tを選ぶと性能最大化</li>
+</ul>
+
+
+<h2>ELB / AutoScaling / CloudWatch</h2>
+
+<h3>ELB</h3>
+
+<ul>
+<li><p>ソフトウェアロードバランサ</p>
+
+<ul>
+<li>ELB自体がスケールアウト・スケールアップを自動で行う</li>
+<li>異なるAZをまたがって分散可能</li>
+<li>ヘルスチェックあり</li>
+</ul>
+</li>
+<li><p>トラフィックに合わせて増減するので、IPアドレスもそれに伴って増減する。IPを指定しちゃだめ。</p>
+
+<ul>
+<li>ELBにはDNS名が割り振られるので、それを使うようにすべき。</li>
+<li>その名前をさらにCNAMEして使う。</li>
+</ul>
+</li>
+<li><p>WebSocket対応しているの？</p>
+
+<ul>
+<li>現状はサポートしていない。</li>
+</ul>
+</li>
+<li><p>CloudWatch との統合</p>
+
+<ul>
+<li>各所のヘルスチェックができる。</li>
+</ul>
+</li>
+<li><p>IPv6もサポート</p></li>
+<li><p>SSL のサポート</p>
+
+<ul>
+<li>ELBでSSLをひもとくことが可能</li>
+<li>Cipherも選択できる。</li>
+</ul>
+</li>
+<li><p>セッションアフィニティもサポート</p>
+
+<ul>
+<li>ELBがcookieを発行できる。</li>
+<li>とはいえ、スケール性を考えると使うのはあんまりお勧めしない。</li>
+</ul>
+</li>
+<li><p>X-Forwarded ヘッダーもサポート</p></li>
+<li><p>UDPはサポートしない</p></li>
+<li><p>TIPS</p>
+
+<ul>
+<li>IPアドレスはダメ絶対</li>
+<li>負荷分散は、AZ毎に均等に割り振ろうとする。
+
+<ul>
+<li>性能のバランスに偏りがある場合に注意。</li>
+</ul>
+</li>
+<li>各インスタンスのサイズ・性能は考慮されない。</li>
+<li>Management Consoleではサポートされていないが、コマンドラインツールでしかサポートされていない機能もあるので注意。</li>
+<li>急激な増減がある場合は注意
+
+<ul>
+<li>キャパシティ判定は５分ぐらい</li>
+<li>予想できるものには、事前に準備を。</li>
+</ul>
+</li>
+<li>DNSのTTLが60秒かかるので、その辺もスケール時に注意</li>
+<li>ヘルスチェックのアクセス権に注意。</li>
+<li>ELBの負荷テストは要注意。ドキュメントがあるのでそれに従って。
+
+<ul>
+<li>60秒でセッションを切る仕様になったりしている。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>AutoScaling</h3>
+
+<ul>
+<li>ELBと組み合わせてよく使う。
+
+<ul>
+<li>マニュアル・スケジュール・ポリシーベース(CPUの使用率など) に従ってインスタンスを増減してくれる。</li>
+<li>コマンドラインツールから設定する。
+
+<ul>
+<li>グループ単位で増減させる対象を指定する。</li>
+</ul>
+</li>
+<li>インスタンスも勝手に落ちたりするので、そうなる事を考慮して設計しておく</li>
+<li>20以上のインスタンス使いたい場合は連絡ください。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>CloudWatch</h3>
+
+<ul>
+<li>いろんなメトリクスをグラフで見れる。</li>
+<li>カスタムメトリクス(有料)も作れる。</li>
+</ul>
+
+
+<h2>S3</h2>
+
+<h3>デモ</h3>
+
+<ul>
+<li>UpするとURLがつく</li>
+<li>CloudFrontを使う使わないでURL変わる。</li>
+</ul>
+
+
+<h3>S3とは</h3>
+
+<ul>
+<li>httpsでアクセスするWebのストレージサービス</li>
+<li>アクセスコントロールなどもできる。</li>
+<li><p>信頼性も高い。</p></li>
+<li><p>バケット</p>
+
+<ul>
+<li>1アカウント最大100個</li>
+</ul>
+</li>
+<li><p>オブジェクト</p>
+
+<ul>
+<li>1オブジェクト5TBまで。</li>
+<li>バケットごとの個数制限は無い？</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>コンセプト</h3>
+
+<ul>
+<li><p>堅牢であること</p>
+
+<ul>
+<li>2006年サービス以降データロストなし</li>
+<li>３か所以上にレプリケーション</li>
+<li>イレブンナイン</li>
+<li>3つ以上のDCが同時に焼失しない限りは無くならない。</li>
+</ul>
+</li>
+<li><p>常に利用可能なこと</p>
+
+<ul>
+<li>99.9%のSLA</li>
+<li>計画停止なし</li>
+<li>８つのリージョンから選択可能。</li>
+</ul>
+</li>
+<li><p>スケールすること</p>
+
+<ul>
+<li>論理的には無限にスケール</li>
+<li>1PBになろうが保存可能</li>
+<li>１つのフィルサイズは5TBまで。</li>
+</ul>
+</li>
+<li><p>安全であること</p>
+
+<ul>
+<li>全てSSL通信</li>
+<li>認証・認可機能を持つ
+
+<ul>
+<li>ACL/ポリシーベース</li>
+<li>ユーザーアクセスコントロール</li>
+</ul>
+</li>
+<li>サーバサイドでの暗号化機能もある。</li>
+</ul>
+</li>
+<li><p>高速であること</p>
+
+<ul>
+<li>常に高速なレイテンシ</li>
+<li>専用線で直結も可能
+
+<ul>
+<li>これ詳しく聞きたいな。どういった形でのサービス提供？</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>シンプルであること</p>
+
+<ul>
+<li>PUT/GET/DELETE/LIST のみ</li>
+<li>データサイズも数も気にしなくてよい。</li>
+<li>様々な言語でのSDKもある。</li>
+</ul>
+</li>
+<li><p>低コストであること</p>
+
+<ul>
+<li>6年間で15回値下げしてる！</li>
+<li>2012/2にまた13%値下げした。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>事例として</h3>
+
+<ul>
+<li>Smugmug
+
+<ul>
+<li>プロの写真販売用サイト</li>
+<li>ペタバイトのデータを保存している。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>AWS自体もユーザ</h3>
+
+<ul>
+<li><p>AWSサービスの中心にS3がある。</p></li>
+<li><p>リージョン間での簡単な移動ソリューションはあるか？</p>
+
+<ul>
+<li>インポート/エクスポートという手はある。</li>
+<li>一回ローカルに落とす感じ。</li>
+</ul>
+</li>
+<li><p>ディザスタリカバリとして、東京リージョン + 他のリージョンにも保持した方がいいか？</p>
+
+<ul>
+<li>そこはむしろ費用との兼ね合い。</li>
+<li>日本丸ごと潰れる心配をする感じであれば考えてもいいかも。</li>
+</ul>
+</li>
+<li><p>東京リージョンのレイテンシはどれくらい？</p>
+
+<ul>
+<li>公式ではないが、10msecぐらいという感じ。</li>
+<li>シンガポールだと70msec程度</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>CloudFormation</h2>
+
+<p>Amazon Simpleworkflowもおすすめ！</p>
+
+<h3>CloudFormation</h3>
+
+<ul>
+<li><p>デプロイと自動化を担当するサービス</p></li>
+<li><p>テンプレートを元にして、AWSのEC2 / ELB / S3などを一発で各サービスを構成することができる</p></li>
+</ul>
+
+
+<h3>利用シーンと利点</h3>
+
+<ul>
+<li><p>一度テンプレートを作成すれば、同じ構成を再現できる</p>
+
+<ul>
+<li>開発環境の構築など</li>
+<li>同じアプリでデータが異なるものなど</li>
+</ul>
+</li>
+<li><p>ベストプラクティスが盛り込まれたテンプレートが元から提供されている</p></li>
+<li><p>起動パラメータも渡せる</p></li>
+</ul>
+
+
+<h3>利用料金</h3>
+
+<ul>
+<li>このサービス自体は無料</li>
+</ul>
+
+
+<h3>スタック</h3>
+
+<ul>
+<li>リソースの集合のこと</li>
+<li><p>スタックの単位で構築することができる。</p></li>
+<li><p>スタックの構築方法</p>
+
+<ul>
+<li>マネジメントコンソール</li>
+<li>コマンドラインツールやSDKからも可能</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>テンプレート</h3>
+
+<ul>
+<li>サンプルでいろんなものが利用できる</li>
+<li>別途、stack作成の際に自分でuploadすることもできる。</li>
+<li><p>S3に保存しておくことも可能。</p></li>
+<li><p>JSONフォーマット</p>
+
+<ul>
+<li>どのサービスもだいたいJSON</li>
+<li>JSONの中にプログラミングして行くようなイメージになりそう。</li>
+<li>後で変更可能なパラメータなどを定義可能</li>
+<li>予約後などもテンプレート内で取れる</li>
+<li>１つのテンプレートを複数のリージョンで使いたい場合でも、分類してキーを指定したりできる。</li>
+<li>スタック構築後に知りたいアウトプットパラメータとして返す値を定義して行くことも可能。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>TIPS</h3>
+
+<ul>
+<li>EC2必須ではない
+
+<ul>
+<li>DB構築だけ、オートスケールだけ、アラーム設定だけでもOK</li>
+</ul>
+</li>
+<li>参照関係があると、依存関係とみなされる。</li>
+</ul>
+
+
+<h3>CloudFormer</h3>
+
+<ul>
+<li><p>テンプレート作るのしんどい</p>
+
+<ul>
+<li>ひながたからつくるてもあるが。。。</li>
+</ul>
+</li>
+<li><p>もともと持っているシステム構成を元にテンプレートを生成するリバースエンジニアリングツール</p></li>
+<li><p>使い方</p>
+
+<ul>
+<li>CloudFormerのテンプレートからスタックを作成。</li>
+<li>テンプレート化したりリージョンを選んで、対象にしたいリソースにチェックを入れて生成すればできる。</li>
+</ul>
+</li>
+<li><p>AmazonLinuxには、cloud-init / cfnヘルパー(もしくはchef)などと組み合わせることも可能なので、セットアップも柔軟に可能！</p></li>
+</ul>
+
+
+<h2>CloudFront / Route53</h2>
+
+<h3>CloudFront</h3>
+
+<ul>
+<li>世界中に散らばったCDN
+
+<ul>
+<li>IPアドレスベースで一番近いところにアクセスする。</li>
+</ul>
+</li>
+<li>コミットメントなし</li>
+<li>オリジンにはHTTPでアクセス</li>
+<li><p>FLVも可能</p></li>
+<li><p>利用メリット</p>
+
+<ul>
+<li>EC2向けのネットワーク課金より安い</li>
+<li>エッジロケーションごとに価格は異なる</li>
+</ul>
+</li>
+<li>コミットしてもらえれば、ディスカウントもあり。</li>
+</ul>
+
+
+<h3>オリジンの使い分け</h3>
+
+<ul>
+<li>EC2を使う場合
+
+<ul>
+<li>動的コンテンツ</li>
+<li>Ajaxなどのクロスドメイン通信が必要なもの</li>
+</ul>
+</li>
+<li>S3を使う場合
+
+<ul>
+<li>静的コンテンツ</li>
+<li>FLVなど</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>ログの保存</h3>
+
+<ul>
+<li><p>S3に保存される</p>
+
+<ul>
+<li>アクセス記録は全ロケーションから24時間以内に収集</li>
+<li>とらないことも可能</li>
+</ul>
+</li>
+<li><p>ログの形式</p>
+
+<ul>
+<li>1hもしくは50MBで分割</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>注意点</h3>
+
+<ul>
+<li><p>料金はトラフィックとリクエスト数に依存</p>
+
+<ul>
+<li>HTTPSの方がちょっと高い</li>
+</ul>
+</li>
+<li><p>特定のエッジロケーションだけに制限することはできない</p>
+
+<ul>
+<li>日本だけ。。。とかは無理</li>
+</ul>
+</li>
+<li><p>エッジロケーションを絞るのも無理。</p></li>
+<li><p>今はHTTPSではカスタムドメインが利用できない</p></li>
+</ul>
+
+
+<h3>キャッシュ制御</h3>
+
+<ul>
+<li>最小時間は1h
+
+<ul>
+<li>廃棄リクエストは可能だが、同時に３リクエストまで
+
+<ul>
+<li>1リクエストあたり1000URLまで。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>動画配信</h3>
+
+<ul>
+<li><p>ストリーミング</p>
+
+<ul>
+<li>エンドユーザが視聴後にファイルが残らない</li>
+<li>部分再生の場合、再生部分のみを配送するので低料金</li>
+</ul>
+</li>
+<li><p>ライブストリーミング</p>
+
+<ul>
+<li>FMS on AWSを購入すれば可能</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>Route53</h3>
+
+<ul>
+<li>AnyCastで一番近いロケーションのDNSにつながる</li>
+<li>4つの異なるトップドメインにドメインが登録される</li>
+</ul>
+
+
+<h3>とは</h3>
+
+<ul>
+<li>SLA 100%のサービス！！</li>
+<li>権威DNSサーバ</li>
+<li>豊富なレコードタイプ</li>
+</ul>
+
+
+<h3>ホストゾーン</h3>
+
+<ul>
+<li><p>ホストゾーン＝ドメインファイル</p>
+
+<ul>
+<li>レコードは1000個まで。緩和可能</li>
+<li>サブドメインも同一のホストゾーンにできる</li>
+</ul>
+</li>
+<li><p>レコードは荷重ラウンドロビンをサポート</p></li>
+</ul>
+
+
+<h3>独自のエイリアスタイプ</h3>
+
+<ul>
+<li>ELBのDNS名をドメインだけの形にして割り当て可能</li>
+</ul>
+
+
+<h3>価格</h3>
+
+<ul>
+<li>ホストゾーン + リクエスト数</li>
+</ul>
+
+
+<h3>利用方法</h3>
+
+<ul>
+<li>Google SpreadSheetベースで管理・設定することも可能。</li>
+</ul>
+
+
+<h3>FAQ</h3>
+
+<ul>
+<li>IPv6対応だが、IPv6で運用しているわけではない。</li>
+<li>プライベートIP目的の利用は推奨していない。</li>
+<li>反映はものすごく速い。1分もかかることはない</li>
+</ul>
+
+
+<h2>SQS / SNS / Simpleworkflow</h2>
+
+<h3>Simple Queue Service</h3>
+
+<ul>
+<li>分散Queueサービス</li>
+<li>HTTPSでキューを投げて、受信するだけ</li>
+<li>システムを疎結合に分割するためのキーサービス</li>
+</ul>
+
+
+<h3>SQSの機能</h3>
+
+<ul>
+<li>最低１度の到達保証</li>
+<li>シンプルなAPI
+
+<ul>
+<li>HTTPSでやりとりする</li>
+</ul>
+</li>
+<li>プロダクトのインストール不要</li>
+</ul>
+
+
+<h3>分散キューサービス</h3>
+
+<ul>
+<li>自動的に複数DC間でレプリケーションされ、メッセージロストを防ぐ</li>
+<li>Persisitent Message</li>
+</ul>
+
+
+<h3>使い方</h3>
+
+<ul>
+<li>エンドポイントの作成</li>
+<li>メッセージの送信</li>
+<li>メッセージの受信</li>
+<li>のみ</li>
+</ul>
+
+
+<h3>メッセージの到達保証</h3>
+
+<ul>
+<li>最低１度は受信する
+
+<ul>
+<li>At-Latest-Once delivery</li>
+</ul>
+</li>
+<li>Visibility Timeout
+
+<ul>
+<li>Readerがメッセージを受信した場合に、一定期間メッセージが見えなくなる</li>
+<li>メッセージは明示的に消さない限り、２週間存在し続ける。</li>
+<li>勝手に消すようなコントロールはしない</li>
+</ul>
+</li>
+<li>デメリット
+
+<ul>
+<li>稀に複数回届くことがある</li>
+<li>消さないと消えない</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>制約</h3>
+
+<ul>
+<li>順序性は保証しない</li>
+<li>保存は最大２週間</li>
+<li>サイズは64KBまで</li>
+<li>キュー内に入るメッセージ数は無制限</li>
+<li>キュー名は80文字まで。</li>
+</ul>
+
+
+<h3>いつ使うか？</h3>
+
+<ul>
+<li>コンポーネント間の依存を疎結合にする</li>
+<li>オンプレミスとのやりとり</li>
+</ul>
+
+
+<h3>Simple Notification Service</h3>
+
+<ul>
+<li>通知サービス</li>
+<li>CloudWatchとも連携</li>
+<li>マルチプロトコル</li>
+<li>ショートメッセージも飛ばせる(日本だと微妙)</li>
+</ul>
+
+
+<h3>使い方</h3>
+
+<ul>
+<li>トピックの作成</li>
+<li>トピックの購読者を登録</li>
+<li>通知を送ると、購読者に届く</li>
+</ul>
+
+
+<h3>制約</h3>
+
+<ul>
+<li>1アカウントあたり100トピックまで</li>
+<li>メッセージは最大8KBまで</li>
+</ul>
+
+
+<h3>Simple Workflow Service</h3>
+
+<ul>
+<li>オーケストレーションをするサービス
+
+<ul>
+<li>分散処理を管理する</li>
+</ul>
+</li>
+<li>言ってみれば、オーケストラの指揮者のようなもの！</li>
+<li>AWSの中だけではなく、オンプレミス / モバイルなどのコンポーネントとの連携することが可能
+
+<ul>
+<li>ワークフローだけAmazon側で自動化できる</li>
+</ul>
+</li>
+<li>ワークフローの階層構造も可能</li>
+</ul>
+
+
+<h3>構成</h3>
+
+<ul>
+<li>Workflow Starter</li>
+<li>Workflow Worker</li>
+<li>Decider</li>
+</ul>
+
+
+<h3>Flow Framewrok</h3>
+
+<ul>
+<li>Java製。SWFを使うワークフローフレームワーク</li>
+<li>DSLを利用する</li>
+</ul>
+
+
+<h2>VPC</h2>
+
+<h3>VPCの利用典型</h3>
+
+<ul>
+<li>AWS上にプライベートクラウドを構築</li>
+<li>オンプレミスとのハイブリッドを実現</li>
+<li>社内インフラの一部に見える
+
+<ul>
+<li>ENIというMac/IPをインスタンスごとに付け替えられるようにするサービスも日本で始まった</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>VPCの機能</h3>
+
+<ul>
+<li>VPN</li>
+<li>プライベートサブネットとパブリックサブネット</li>
+<li>インターネットへのゲートウェイ</li>
+</ul>
+
+
+<h3>EC2 Dedicated Instance</h3>
+
+<ul>
+<li>物理サーバを別の人と同居するのは嫌だ、という場合。</li>
+<li>VPC内での専用インスタンス
+
+<ul>
+<li>シングルテナント保証</li>
+</ul>
+</li>
+<li>クラウドのメリットは保証</li>
+</ul>
+
+
+<h3>パケットの出入り管理</h3>
+
+<ul>
+<li>ネットワークレイヤで、INもOUTもコントロールできる</li>
+<li>もちろん、インスタンス単位でセキュリティグループでもIN/OUTの両方をコントロールできる。</li>
+</ul>
+
+
+<h3>Amazon VPCをどう考えるか</h3>
+
+<ul>
+<li>これから標準になるもの</li>
+<li>ネットワークを仮想化するもの</li>
+<li>ネットワークのに関する要望にこたえたもの
+
+<ul>
+<li>IPアドレス/Macの固定</li>
+<li>サブネットを使った管理</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>使い方</h3>
+
+<ul>
+<li>リージョンを選択</li>
+<li>IPブロックを設定する
+
+<ul>
+<li>最大16ビット</li>
+<li>節約する必要はないよｗ</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>Public Subnetの作成</h3>
+
+<ul>
+<li><p>VPC内にIPブロックをセ艇する</p>
+
+<ul>
+<li>最大で17ビットマスク</li>
+<li>サブネット内の4IPはAWS予約</li>
+<li>サブネットはAZをまたぐことはできない。</li>
+<li>ELBもこのサブネット内に置かれる。</li>
+</ul>
+</li>
+<li><p>デフォルトでは、サブネット内での通信のみ</p>
+
+<ul>
+<li>内部でのACLはフルオープン</li>
+</ul>
+</li>
+<li><p>Internet Gateway の追加</p>
+
+<ul>
+<li>Elastic IPつけられる。</li>
+<li>In / Out のフィルタ設定が可能。S3にだけアクセスさせる、とかも可能。</li>
+</ul>
+</li>
+<li><p>セキュリティグループ</p>
+
+<ul>
+<li>EC2で扱っているセキュリティグループとは別のもの。</li>
+<li>稼働中にインスタンスとグループを切り替え可能</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>VPC とEC2のインスタンスの違い</h3>
+
+<ul>
+<li>Dedicated Instance</li>
+<li>t1.microは利用できない</li>
+<li>VPC/subnetを選べる</li>
+</ul>
+
+
+<h3>Private Subnet</h3>
+
+<ul>
+<li>NATインスタンスを付与することで可能</li>
+</ul>
+
+
+<h3>NATインスタンスとは</h3>
+
+<ul>
+<li><p>プライベートサブネットから、インターネット接続するためのNAT</p>
+
+<ul>
+<li>実態は、AmazonLinux</li>
+</ul>
+</li>
+<li><p>普通のインスタンスの起動と同じように起動することができる。</p></li>
+<li>EIPによってpublicなIPをつける必要がある。</li>
+</ul>
+
+
+<h3>VPNでつなぐ</h3>
+
+<ul>
+<li>ハードウェアVPNを対象</li>
+<li>詳細には、BGPが喋れてIPsec AES 128bitが使えればOK</li>
+</ul>
+
+
+<h3>制限</h3>
+
+<ul>
+<li>1つのVPNゲートウェイあたり10までの接続</li>
+</ul>
+
+
+<h3>そのた</h3>
+
+<ul>
+<li><p>DHCPオプションの活用</p></li>
+<li><p>マルチホーム(cloudhub)</p>
+
+<ul>
+<li>拠点通信も行える</li>
+</ul>
+</li>
+<li><p>VPCでは特別なお金は頂いてません</p>
+
+<ul>
+<li>VPNの接続設定にはちょっと費用かかるけどそれぐらい。</li>
+</ul>
+</li>
+<li><p>EC2にあるEBSはVPCに持っていくことはできるが、逆はできない。</p></li>
+</ul>
+
+
+<h2>Storage Gataway / Direct Connect</h2>
+
+<h3>データを移行するような場合</h3>
+
+<ul>
+<li>S3に持っていくような場合には、Internet経由しかなかった</li>
+<li>次にAWS Import / Exprot サービス</li>
+<li>Storage Gataway
+
+<ul>
+<li>既存のデータセンタのデータをクラウドストレージに安全に統合するサービス</li>
+<li>インターネット経由でアクセスするサービス</li>
+</ul>
+</li>
+<li>AWS Direct Connect (10G / 1G)
+
+<ul>
+<li>直接専用線を引くサービス</li>
+<li>高スループット + 低レイテンシ</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>Storage Gataway</h3>
+
+<ul>
+<li><p>仮想アプライアンス</p>
+
+<ul>
+<li>VMWare ESXi 4.01 の仮想サーバ</li>
+<li>どこかに置くと、iSCSI対応のストレージとして見れる。</li>
+<li>そ子におかれたデータが、スケジューリングされてS3に保存される。</li>
+</ul>
+</li>
+<li><p>バックアップデータの保存形式はEBSスナップショット</p>
+
+<ul>
+<li>そのため、AWSクラウド上でシステムリカバリも可能</li>
+</ul>
+</li>
+<li><p>定期的にスナップショットバックアップをS3上に保存してくれる、という感じ？</p></li>
+</ul>
+
+
+<h3>ユースケース</h3>
+
+<ul>
+<li>バックアップ</li>
+<li>ディザスタリカバリとBCP</li>
+</ul>
+
+
+<h3>詳細</h3>
+
+<ul>
+<li>1ボリューム最大1TiB</li>
+<li>1ゲートウェイで最大12TiB</li>
+<li>上限申請も緩和可能</li>
+<li>スナップショットの作成スケジュールを1,2,4&#8230;12時間などで設定可能</li>
+</ul>
+
+
+<h3>Direct Connect</h3>
+
+<ul>
+<li><p>AWS Direct Connectの物理接続</p>
+
+<ul>
+<li>相互接続ポイントを公開している</li>
+<li>ポイントにサーバがあるわけではない。</li>
+</ul>
+</li>
+<li><p>通常の専用線引き込みと違い、サーバの設置場所指定に依存しなくてすむ。</p></li>
+<li><p>EC2/S3などとの接続</p>
+
+<ul>
+<li>Public ASを使ったBGP接続を行う。</li>
+</ul>
+</li>
+<li>VPCなどはVLAN</li>
+</ul>
+
+
+<h3>注意</h3>
+
+<ul>
+<li>Public IP transitは行わない</li>
+<li>リージョン毎の独立した契約</li>
+</ul>
+
+
+<h3>できること</h3>
+
+<ul>
+<li>オンプレミスとのハイブリッド環境の構築</li>
+<li>広域LANサービスの一部として使うことなども考えられる。</li>
+</ul>
+
+
+<h3>Direct Conect 接続のために</h3>
+
+<ul>
+<li>AWS Direct Connect Solution Provider</li>
+<li>諸々の手続きを肩代わりしてくれる。</li>
+</ul>
+
+
+<h3>物理接続</h3>
+
+<ul>
+<li>1Gbps or 10Gbpsの接続口を提供</li>
+<li>アベイラビリティゾーンとは独立</li>
+<li>Equinixへラックを設置する必要がある</li>
+<li>終端装置を置くのが、ラック単位で契約。。。
+
+<ul>
+<li>Solution Providerに任せれば解決はしてくれる。</li>
+</ul>
+</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[nginx + nagios at Debianの設置]]></title>
+    <link href="http://yudoufu.github.com/blog/2012/01/07/nginx-nagios-debian/"/>
+    <updated>2012-01-07T18:41:00+09:00</updated>
+    <id>http://yudoufu.github.com/blog/2012/01/07/nginx-nagios-debian</id>
+    <content type="html"><![CDATA[<p>今回のサーバにはまだ監視を入れていなかったので、Nagiosを入れる。
+例のごとくWebサーバがnginxなのだが、debianのNagiosパッケージは勝手にApacheとmod_phpを入れるので却下。</p>
+
+<p>ソースからinstallして、php-fpmとfcgiwrapを使う。</p>
+
+<h3>nagiosユーザの準備</h3>
+
+<p>まずはnagios管理用のuserを作る。nginxもnagiosのあれこれをいじれるようにwww-dataユーザもグループに追加。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>% sudo useradd nagios
+</span><span class='line'>% sudo usermod -a -G nagios www-data
+</span><span class='line'>$ sudo usermod -d /usr/local/nagios</span></code></pre></td></tr></table></div></figure>
+
+
+<h3>nagiosのインストール</h3>
+
+<p>必要ライブラリから。
+nagiosをインストールするのだが、こいつのコンパイルにはgdのheaderが推奨される。
+自分の環境では、libgd2-noxpmが入っていたので、これの-devを入れた。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>% sudo apt-get install libgd2-noxpm-dev</span></code></pre></td></tr></table></div></figure>
+
+
+<p>あとは普通に進める。coreとpluginsをいれればOKなので、<a href="http://www.nagios.org/">本家サイト</a>から取ってくる</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>% wget http://prdownloads.sourceforge.net/sourceforge/nagios/nagios-3.3.1.tar.gz
+</span><span class='line'>% wget http://prdownloads.sourceforge.net/sourceforge/nagiosplug/nagios-plugins-1.4.15.tar.gz
+</span><span class='line'>% tar xvzf nagios-3.3.1.tar.gz
+</span><span class='line'>% tar xvzf nagios-plugins-1.4.15.tar.gz</span></code></pre></td></tr></table></div></figure>
+
+
+<p>コンパイル。configureの際、prefixが元々/usr/local/nagiosに、userもnagiosになっているので、特に指定なしでok</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>% cd nagios
+</span><span class='line'>% ./configure
+</span><span class='line'>% make all</span></code></pre></td></tr></table></div></figure>
+
+
+<p>make allが終わると、install用の各種コマンドが表示される。
+今回は、Apache用の設定とかいらないので、以下の４つ。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>% sudo make install 
+</span><span class='line'>% sudo make install-init
+</span><span class='line'>% sudo make install-commandmode
+</span><span class='line'>% sudo make install-config</span></code></pre></td></tr></table></div></figure>
+
+
+<p>これでインストール完了。次にpluginを入れる。
+configureしたときにperlがperlbrewの中の物を見ちゃってほんのり心配だったので、rootで作業に切り替えた。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># cd nagios-plugins-1.4.15
+</span><span class='line'># ./configure
+</span><span class='line'># make &amp;&amp; make install</span></code></pre></td></tr></table></div></figure>
+
+
+<p>なお、自分がこれでstartしようとしたときには/usr/local/nagios/var/spool/checkresultsのディレクトリがなくて怒られていたので、これも作った。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>% sudo -u nagios mkdir -p /usr/local/nagios/var/spool/checkresults</span></code></pre></td></tr></table></div></figure>
+
+
+<p>これでstart</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>% sudo /etc/init.d/nagios start</span></code></pre></td></tr></table></div></figure>
+
+
+<h3>Snoopyを入れておく</h3>
+
+<p>なんでか、nagiosを持ってきたらMagpieRSSの中で使われているSnoopyが空でエラーをはいていたので、別途入れてやる。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>% cd /usr/local/nagios/share/includes/rssextlib/
+</span><span class='line'>% wget -O Snoopy.class.inc http://snoopy.cvs.sourceforge.net/viewvc/snoopy/Snoopy/Snoopy.class.php</span></code></pre></td></tr></table></div></figure>
+
+
+<h3>nginxの設定</h3>
+
+<p>PHPの実行にはphp-fpm、cgiの実行にはfcgiwrapを使う。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>% sudo apt-get install php5-fpm fcgiwrap
+</span><span class='line'>% sudo /etc/init.d/php5-fpm
+</span><span class='line'>% sudo /etc/init.d/fcgiwrap</span></code></pre></td></tr></table></div></figure>
+
+
+<p>もしかすると、元々起動してるかも。
+php-fpmはデフォルトではinet socketで9000番を使うようになっているが、個人的にunix socket経由で使いたかったので、これを変更する。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>% sudo vi /etc/php/fpm/php-fpm.conf
+</span><span class='line'>listen = /var/run/php5-fpm.sock</span></code></pre></td></tr></table></div></figure>
+
+
+<p>あとは、site-availableに以下のような内容で作る。
+ログディレクトリの作成も忘れずに。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>% sudo vi /etc/nginx/site-available/nginx
+</span><span class='line'>
+</span><span class='line'>server {
+</span><span class='line'>    root /usr/share/nginx/www;
+</span><span class='line'>    index index.php index.html index.htm;
+</span><span class='line'>
+</span><span class='line'>    server_name nagios.example.com;
+</span><span class='line'>    access_log /var/log/nginx/nagios/access.log;
+</span><span class='line'>    error_log  /var/log/nginx/nagios/error.log;
+</span><span class='line'>
+</span><span class='line'>    location / { 
+</span><span class='line'>        try_files $uri $uri/ /index.php;
+</span><span class='line'>    }   
+</span><span class='line'>
+</span><span class='line'>    location /nagios/ {
+</span><span class='line'>        alias /usr/local/nagios/share/;
+</span><span class='line'>    }   
+</span><span class='line'>
+</span><span class='line'>    location ~ /nagios/(.*\.php)$ {
+</span><span class='line'>        alias /usr/local/nagios/share/$1;
+</span><span class='line'>        include /etc/nginx/fastcgi_params;
+</span><span class='line'>        fastcgi_pass unix:/var/run/php5-fpm.sock;
+</span><span class='line'>    }   
+</span><span class='line'>
+</span><span class='line'>    location ~ \.cgi$ {
+</span><span class='line'>        root /usr/local/nagios/sbin/;
+</span><span class='line'>        rewrite ^/nagios/cgi-bin/(.*)\.cgi /$1.cgi break;
+</span><span class='line'>        include /etc/nginx/fastcgi_params;
+</span><span class='line'>        fastcgi_pass unix:/var/run/fcgiwrap.socket;
+</span><span class='line'>    }   
+</span><span class='line'>
+</span><span class='line'>}</span></code></pre></td></tr></table></div></figure>
+
+
+<p>これをsite-enabledにsymlinkを張って、nginxをrestart</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>% sudo /etc/init.d/nginx restart</span></code></pre></td></tr></table></div></figure>
+
+
+<p>以上で完了。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[AsakusaSatellite を unicorn で使ってみる ]]></title>
+    <link href="http://yudoufu.github.com/blog/2012/01/05/asakusasatllite-unicorn/"/>
+    <updated>2012-01-05T01:06:00+09:00</updated>
+    <id>http://yudoufu.github.com/blog/2012/01/05/asakusasatllite-unicorn</id>
+    <content type="html"><![CDATA[<p>ちょっと話題にあがっていた<a href="http://www.codefirst.org/AsakusaSatellite/index.html">AsakusaSatellite</a>というのが、自分でも作りたいと思っていた物に近くてすごく便利そうだったので、入れてみた。</p>
+
+<p>例のごとく、systemにinstallする形にしたので、rvmの変な影響を受けないようにrootで操作。あまり好きじゃないけど仕方ない。</p>
+
+<h3>AsakusaSatelliteのセットアップ</h3>
+
+<p>Bundlerがシステムになかったのでインストール。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># gem install bundler --no-rdoc --no-ri</span></code></pre></td></tr></table></div></figure>
+
+
+<p>ダウンロードページからtarballを落として、適当なところに展開。
+今回は、/usr/share/nginx/AsakusaSatellite に展開した。</p>
+
+<p>展開したdirに移動して依存ライブラリをインストールするのだが、今回はunicornを使いたいので、付属のGemfileを編集。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># cd /usr/share/nginx/AsakusaSatellite
+</span><span class='line'># vi Gemfile
+</span><span class='line'>gem 'unicorn'</span></code></pre></td></tr></table></div></figure>
+
+
+<p>とある行のコメントアウトを削除して、bundle install.</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># bundle install --path=vendor/bundle</span></code></pre></td></tr></table></div></figure>
+
+
+<h3>MongoDBの起動</h3>
+
+<p>元々いた。</p>
+
+<h3>sockyサーバの起動</h3>
+
+<p>thinベースのwebsocketサーバを使ってる模様。サンプルの通り起動してみる。</p>
+
+<pre><code># bundle exec thin -R socky/config.ru -p 3002 start
+</code></pre>
+
+<h3>AsakusaSatelliteの設定と起動</h3>
+
+<p>起動の前に、sockyサーバと通信するための設定として、config/message_pusher.ymlを編集して、http: と websocket:の対象サーバドメインを自分用に変更</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># vi config/message_pusher.yml</span></code></pre></td></tr></table></div></figure>
+
+
+<p>今回はunicornを使うので、サンプルと変えて以下のように起動。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># bundle exec unicorn_rails -p 3000</span></code></pre></td></tr></table></div></figure>
+
+
+<p>これで無事起動。</p>
+
+<h3>使ってみた感想</h3>
+
+<p>機能的には素敵。
+gyazoも自動展開するし、File APIも使えるし、syntax highlightも効くし、redmine連携も良い。</p>
+
+<p>ただ、いかんせん重い。unicornですら重い。
+chatするにはもっさりすぎるので、今はまだ常用しそうにないかな。</p>
+
+<p>今後に期待です。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[nginx + unicorn + redmine のセットアップ]]></title>
+    <link href="http://yudoufu.github.com/blog/2011/10/04/nginx-unicorn-redmine/"/>
+    <updated>2011-10-04T03:59:00+09:00</updated>
+    <id>http://yudoufu.github.com/blog/2011/10/04/nginx-unicorn-redmine</id>
+    <content type="html"><![CDATA[<p>redmineを入れようとしたのだが、日常的に使ってるWebサーバがnginxになってるもので、
+せっかくなのでPassengerではなくunicornを使って組み上げてみた。</p>
+
+<p>なおnginxはすでに入っている。</p>
+
+<h2>redmineのセットアップ</h2>
+
+<p>ユーザ側ではrvmを使ってたりするので、system rubyと混乱の生まれないようrootで作業。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># apt-get install ruby1.8 rubygems</span></code></pre></td></tr></table></div></figure>
+
+
+<p>gemはdebianのものでは新しすぎるので1.7以前に戻す必要があるが、gem update &#8211;system 1.6.2とかするとDebianは怒るので、REALLY_GEM_UPDATE_SYSTEMフラグをつける。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># REALLY_GEM_UPDATE_SYSTEM=true gem update --system 1.6.2</span></code></pre></td></tr></table></div></figure>
+
+
+<p>そして各種パッケージを入れる</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># gem install rack -v=1.1.1 --no-rdoc --no-ri
+</span><span class='line'># gem install rake -v=0.8.7 --no-rdoc --no-ri
+</span><span class='line'># gem install i18n -v=0.4.2 --no-rdoc --no-ri
+</span><span class='line'># gem install mysql --no-rdoc --no-ri
+</span><span class='line'># gem install rails -v=2.3.11 --no-rdoc --no-ri</span></code></pre></td></tr></table></div></figure>
+
+
+<p>ちなみにunicornやrailsから先に入れたりするとrakeやrackのバージョンが高いものが入ったりして動かなくなるので、その場合は対象をuninstallしてから入れ直して使う。</p>
+
+<p>これで必要パッケージが完了。</p>
+
+<p>mysqlで以下のようにDB、ユーザを作る。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>&gt; create database redmine;
+</span><span class='line'>&gt; create user 'redmine'@'localhost' identified by 'password';
+</span><span class='line'>&gt; grant all privileges on redmine.* to 'redmine'@'localhost;</span></code></pre></td></tr></table></div></figure>
+
+
+<p>これでOK。次にredmineをcheckout</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># cd /usr/share/nginx
+</span><span class='line'># svn checkout http://redmine.rubyforge.org/svn/branches/1.2-stable redmine
+</span><span class='line'># cd redmine/config
+</span><span class='line'># cp database.yml.exapmle database.yml</span></code></pre></td></tr></table></div></figure>
+
+
+<p>として、DBの設定をする。</p>
+
+<p>そして、セッション鍵生成とDB作成</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># rake generate_session_store
+</span><span class='line'>#  rake db:migrate RAILS_ENV=production</span></code></pre></td></tr></table></div></figure>
+
+
+<p>以上で、redmineに必要な作業完了。</p>
+
+<h2>unicornのセットアップ</h2>
+
+<p>何はなくともinstall</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># gem install unicorn --no-rdoc --no-ri</span></code></pre></td></tr></table></div></figure>
+
+
+<p>redmineのconfig/の中にunicorn.rbを作成</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># vi config/unicorn.rb</span></code></pre></td></tr></table></div></figure>
+
+
+<p>設定は http://www.cocoalife.net/2010/10/post_77.html のエントリを参考に。</p>
+
+<p>完了したら、unicornをデーモンモードで起動</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># unicorn_rails -c config/unicorn.rb -E production -D</span></code></pre></td></tr></table></div></figure>
+
+
+<h2>nginxの設定</h2>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># vi /etc/nginx/site-available/redmine</span></code></pre></td></tr></table></div></figure>
+
+
+<p>以下のように作成。上述のサイトも参考にしつつ。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>upstream unicorn {
+</span><span class='line'>    server unix:/tmp/unicorn.sock;
+</span><span class='line'>}
+</span><span class='line'>
+</span><span class='line'>server {
+</span><span class='line'>    listen          80;
+</span><span class='line'>    server_name     example.com;
+</span><span class='line'>
+</span><span class='line'>    root            /usr/share/nginx/redmine/public;
+</span><span class='line'>    error_log       /usr/share/nginx/redmine/log/error.log;
+</span><span class='line'>
+</span><span class='line'>    location / {
+</span><span class='line'>        if (-f $request_filename) { break; }
+</span><span class='line'>        proxy_set_header X-Real-IP  $remote_addr;
+</span><span class='line'>        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+</span><span class='line'>        proxy_set_header Host $http_host;
+</span><span class='line'>        proxy_pass http://unicorn;
+</span><span class='line'>    }
+</span><span class='line'>}</span></code></pre></td></tr></table></div></figure>
+
+
+<p>有効にして、nginx再起動。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># ln -s /etc/nginx/sites-available/redmine /etc/nginx/sites-enabled/redmine
+</span><span class='line'># /etc/init.d/nginx restart</span></code></pre></td></tr></table></div></figure>
+
+
+<p>以上で完了。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ubuntu 11.10でperlbrewを使ってはまった]]></title>
+    <link href="http://yudoufu.github.com/blog/2011/10/02/ubuntu11-perlbrew/"/>
+    <updated>2011-10-02T22:05:00+09:00</updated>
+    <id>http://yudoufu.github.com/blog/2011/10/02/ubuntu11-perlbrew</id>
+    <content type="html"><![CDATA[<p>デスクトップでUbuntu 11.10を使っていて、perlを入れようと思ってperlbrewをごにょごよしてたら何故かこけてた。</p>
+
+<p>調べてみたら、おんなじはまり方をしている人を発見。</p>
+
+<p><a href="http://d.hatena.ne.jp/masa-wo/20111111/1321000387">perlbrew on Ubuntu 11.10</a></p>
+
+<p>つまるところ、Ubuntu 11.04以上のx86_64環境でperlbrewでインストールするには</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>% perlbrew install perl-5.14.2 -Duserthreds -Dplibpth=/usr/lib/x86_64-linux-gnu</span></code></pre></td></tr></table></div></figure>
+
+
+<p>とすればよい。ということ。
+もっと詳しい話はリンク先参照。</p>
+
+<p>助かりました。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[groonga を囲む夕べ 2にいってきた]]></title>
+    <link href="http://yudoufu.github.com/blog/2011/09/30/groonga-yuube-2/"/>
+    <updated>2011-09-30T02:30:00+09:00</updated>
+    <id>http://yudoufu.github.com/blog/2011/09/30/groonga-yuube-2</id>
+    <content type="html"><![CDATA[<p><a href="http://atnd.org/events/20446">全文検索エンジンgroongaを囲む夕べ 2</a>にいってきたので、そのさいのメモ。
+運営の皆様、会場提供してくださったVoyage Group様、素敵なイベントをありがとうございますm(<em> </em>)m</p>
+
+<p>というわけで以下内容のメモ。</p>
+
+<h2>groonga村</h2>
+
+<p>Overview</p>
+
+<h3>もう使っていいの？</h3>
+
+<ul>
+<li>今日事例発表あるよ！</li>
+<li>仕事で使ってたら教えて！</li>
+</ul>
+
+
+<h3>groongaの利点</h3>
+
+<ul>
+<li>即時更新</li>
+<li>データを一元管理できる</li>
+<li>SQLで使える</li>
+</ul>
+
+
+<h3>groongaと他との違い</h3>
+
+<h3>gronnga</h3>
+
+<ul>
+<li>全文検索エンジンライブラリ</li>
+<li>組み込んで使う前提</li>
+<li><p>自前のストレージもある</p></li>
+<li><p>DB API</p>
+
+<ul>
+<li>これを経由して各種から利用する</li>
+<li>rroonga
+
+<ul>
+<li>rubyから使うライブラリ</li>
+</ul>
+</li>
+<li>mroonga
+
+<ul>
+<li>MySQLから利用するプラグイン</li>
+<li>今日はベンチマークもあり</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>クエリAPI</p>
+
+<ul>
+<li>groongaに直接クエリ発行</li>
+<li>groongaコマンド
+
+<ul>
+<li>CLIとか。</li>
+</ul>
+</li>
+<li>nroonga
+
+<ul>
+<li>node.js経由でクエリAPIを使う。HTTP経由で使う。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>groonga \w PostgreSQL</p></li>
+</ul>
+
+
+<h2>groonga 新年と収穫のお祭り</h2>
+
+<h3>これまでの開発経緯</h3>
+
+<ul>
+<li>2005年にSennaリリース</li>
+<li>2ch検索のために開発</li>
+<li>即時検索可能に。。。というのを目的にしていたので、当初から動的構築ひとすじ
+
+<ul>
+<li>その後groongaに解明。カラムストア機能をつけた。　</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>索引の動的構築とは</h3>
+
+<ul>
+<li><p>登録した文書を索引に即時反映</p>
+
+<ul>
+<li>当時としては斜め上の考え方</li>
+<li>転地インデックスの動的構築は煩雑</li>
+</ul>
+</li>
+<li><p>静的構築</p>
+
+<ul>
+<li>構築完了した時点で検索完了</li>
+<li>小さい作業領域で高速に検索可能</li>
+</ul>
+</li>
+<li><p>動的更新</p>
+
+<ul>
+<li>常に検索可能</li>
+<li>ランダムI/Oを押さえたり、ロックしないようにするなどの工夫が必要</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>現在</h3>
+
+<ul>
+<li><p>カラムストア機能を追加</p>
+
+<ul>
+<li>トランザクションは苦手だが、集計や圧縮に向いている。</li>
+</ul>
+</li>
+<li><p>最近は静的構築も進めている。</p>
+
+<ul>
+<li>オフラインで作るには性能的に有利</li>
+<li>静的構築もできた方がいいよね。</li>
+</ul>
+</li>
+<li><p>静的構築のアプローチ</p>
+
+<ul>
+<li>転地索引構築の2pass化</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>今後</h3>
+
+<ul>
+<li><p>から無ストアの性能強化</p>
+
+<ul>
+<li>キャッシュを考慮したデータ構造</li>
+<li>高速なファセット検索</li>
+</ul>
+</li>
+<li><p>索引の圧縮方式の拡充</p></li>
+<li><p>類似文字列検索</p>
+
+<ul>
+<li>編集距離・コサイン類似度</li>
+</ul>
+</li>
+<li><p>頻出パターン抽出</p></li>
+<li>ストリーム処理機能
+
+<ul>
+<li>時間窓内での頻出パターン・最大・最小値計算</li>
+</ul>
+</li>
+<li>スキーマレス化</li>
+</ul>
+
+
+<h3>最後に</h3>
+
+<p>開発者募集中！</p>
+
+<h2>mroongaの紹介</h2>
+
+<h3>mroongaとは</h3>
+
+<ul>
+<li><p>MySQLのストレージエンジン</p>
+
+<ul>
+<li>他のストレージエンジンに存在しない全文検索エンジンを追加する事が可能</li>
+</ul>
+</li>
+<li><p>MyISAMと異なり、ロックする事なく参照・更新する事ができる。</p>
+
+<ul>
+<li>最近位置情報をサポート</li>
+<li>ただし、現在は点のみ。</li>
+</ul>
+</li>
+<li><p>ラッパーモード</p>
+
+<ul>
+<li>基本的には、全文インデックスの部分のみmroongaが提供し、その他の部分は既存のストレージエンジンのものを利用する
+
+<ul>
+<li>NULLの制限(groongaがNULLを扱えない)の回避等もできる。</li>
+</ul>
+</li>
+<li>mroongaストレージエンジンが、裏から他のストレージエンジンを利用するイメージ</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>新バージョン</h3>
+
+<ul>
+<li>auto_incrrementの追加</li>
+<li>ラッパーモードの追加</li>
+<li>マルチカラムインデックス追加　
+
+<ul>
+<li>ただし、MySQL以外からもgroongaを利用するようなタンデム構成では整合性を保てなくなるので注意</li>
+</ul>
+</li>
+<li>位置情報検索index追加
+
+<ul>
+<li>現時点では点のみ</li>
+</ul>
+</li>
+<li>全文検索パーサーをカスタマイズできるように。</li>
+<li>rename / alter table対応</li>
+</ul>
+
+
+<h3>Spiderとの連携</h3>
+
+<ul>
+<li>全文検索対応</li>
+<li>位置情報検索index対応
+
+<ul>
+<li>shardingしていてもできる。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>今後</h3>
+
+<ul>
+<li>MariaDBにバンドルされる。</li>
+</ul>
+
+
+<h3>まとめ</h3>
+
+<ul>
+<li>更新と参照が混在する用途に強い</li>
+<li>Spiderと組み合わせてスケールアウトすることができる</li>
+</ul>
+
+
+<h2>Geographical Searching</h2>
+
+<h3>groongaとの歩み</h3>
+
+<ul>
+<li>2008から検索エンジン再構築プロジェクト開始
+
+<ul>
+<li>当時senna</li>
+</ul>
+</li>
+<li>2010 からgroongaを採用
+
+<ul>
+<li>レストラン検索</li>
+<li>地図検索</li>
+<li>駅検索</li>
+<li>GPS検索</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>緯度経度情報検索</h3>
+
+<ul>
+<li>groongaでは矩形と円形の検索
+
+<ul>
+<li>矩形(範囲)検索</li>
+<li>円形(距離)検索</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>距離計算の実現方法</h3>
+
+<ul>
+<li>方形検索</li>
+<li>球面近似</li>
+<li>ヒュベニ
+
+<ul>
+<li>楕円退場で距離を算出する</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>測地系について</h3>
+
+<ul>
+<li>日本測地系</li>
+<li>世界測地系</li>
+</ul>
+
+
+<h3>パフォーマンステスト</h3>
+
+<p>数字色々細かいので割愛。。。</p>
+
+<p>最初のVerから90%ぐらいのパフォマンスアップ！</p>
+
+<h2>groonga with PostgreSQL</h2>
+
+<h3>PostgreSQLの特徴</h3>
+
+<ul>
+<li><p>拡張性の高さ</p>
+
+<ul>
+<li>CでもPL/PGSQLで型も作れたり関数を作れたり。。。</li>
+<li>indexも定義できる</li>
+<li>テーブル定義もできるように(SQL/MED)</li>
+</ul>
+</li>
+<li><p>PGXN</p>
+
+<ul>
+<li>CPANみたいなもの</li>
+<li>探したりインストールしたりするのがずっと楽になる予定</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>textsearch_groonga</h3>
+
+<ul>
+<li>PostgreSQLの方には文書データを入れておく。</li>
+<li>groongaの方でindex関連の情報を持つ</li>
+</ul>
+
+
+<h3>groonga/fdw</h3>
+
+<ul>
+<li><p>SQL/MED</p></li>
+<li><p>FDW</p>
+
+<ul>
+<li>Forigen Data Wrapper</li>
+<li>外部リソースをPostgresのテーブルとして利用できる機能
+
+<ul>
+<li>外部からデータとれる</li>
+</ul>
+</li>
+<li>9.1から</li>
+<li>今は読み込みぐらいだが、シンプルに実装できる
+
+<ul>
+<li>Oracle</li>
+<li>MySQL</li>
+<li>Redis</li>
+<li>etc..</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>groonga_fdw</p>
+
+<ul>
+<li>FDWの機能を使ってgroongaを使う</li>
+<li>開発中</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>どう違う？</h3>
+
+<ul>
+<li>textsearch_groonga
+
+<ul>
+<li>インデックスとしてのみ</li>
+<li>持ってるデータに対して全文検索を張りたい</li>
+</ul>
+</li>
+<li>groonga_fdw
+
+<ul>
+<li>データ自体groongaで持つ感じになる</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>mroongaベンチマーク</h2>
+
+<ul>
+<li>MySQL内でのベンチマーク
+
+<ul>
+<li>全文検索機能</li>
+<li>位置情報検索</li>
+<li>即時更新</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>全文検索</h3>
+
+<ul>
+<li>100万件のtweetに対して１万回のフレーズ検索にかかった時間
+
+<ul>
+<li>mroonga だいぶ早いです。。。</li>
+<li>mroonga + innoDBが割と良い選択肢になりそう</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>位置情報検索</h3>
+
+<ul>
+<li>1100万件の番地データに対して1000回のMBRContains + ORDER BY検索
+
+<ul>
+<li>mroongaそこそこ早いけど、InnoDBと組み合わせるとorder byで読みにいく分の重さでちょっと負ける</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>書き込み</h3>
+
+<ul>
+<li>mroonga単体だとスループット１オーダーぐらい早い。。
+
+<ul>
+<li>ラッパーモードだとInnoDBに引きずられる</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>動的更新の性能</h3>
+
+<ul>
+<li>書き込み量が増加しても、Sphinx等に比べて性能劣化が少ない。</li>
+</ul>
+
+
+<h2>mroongaの未サポート機能</h2>
+
+<h3>文字コード</h3>
+
+<ul>
+<li>UTF-8以外のサポート</li>
+<li>COLLATIONも、NFKC使っていて、MySQLのものをそのまま使えるわけではない。</li>
+</ul>
+
+
+<h3>condition pushdown</h3>
+
+<ul>
+<li>MySQLが使うと判断したindex以外でも使えるように。</li>
+<li>groongaのドリルダウンと組み合わせたい。</li>
+</ul>
+
+
+<h3>位置情報</h3>
+
+<ul>
+<li>点のみ</li>
+<li>0またぎの緯度経度検索ができない</li>
+</ul>
+
+
+<h3>MySQL 5.6から出る正確な位置比較関数</h3>
+
+<ul>
+<li>MBR~はまだつかえない</li>
+</ul>
+
+
+<h3>ストレージモードでのNULL</h3>
+
+<ul>
+<li>ラッパーモードのみ</li>
+</ul>
+
+
+<h3>トランザクション</h3>
+
+<ul>
+<li>mroongaがサポートできていないので、ラッパーモードでInnoDBのトランザクションを使っても、mroongaのindexだけrollbackされなかったりする。</li>
+</ul>
+
+
+<h3>修復ができない</h3>
+
+<ul>
+<li>単純にrepaier tableではだめ。</li>
+<li>色々手順ふむ</li>
+</ul>
+
+
+<h3>Spiderまわり</h3>
+
+<ul>
+<li>parallel searchに未対応</li>
+</ul>
+
+
+<h2>groonga 開発予報</h2>
+
+<h3>grn_datとは</h3>
+
+<ul>
+<li>文字列とIDを関連づけるモジュール</li>
+<li><p>grn_pat grn_hash</p></li>
+<li><p>grn_pat</p>
+
+<ul>
+<li>パトリシアトライ</li>
+<li>前方一致</li>
+</ul>
+</li>
+<li><p>grn_hash</p>
+
+<ul>
+<li>ハッシュ表</li>
+<li>前方一致はサポートしないが高素行</li>
+</ul>
+</li>
+<li><p>grn_dat</p>
+
+<ul>
+<li>だぶる配列</li>
+<li>前方一致検索をサポートする上に速い</li>
+</ul>
+</li>
+<li><p>いずれも参照ロックフリー</p></li>
+</ul>
+
+
+<h3>grn_datの特徴</h3>
+
+<ul>
+<li>前方一致が可能で参照が速い
+
+<ul>
+<li>更新とかにはあまり強くない</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>前方一致検索とは</h3>
+
+<ul>
+<li>Common Prefix Search
+
+<ul>
+<li>クエリから索引語への分割</li>
+</ul>
+</li>
+<li>Predictive Search</li>
+</ul>
+
+
+<h3>文字列更新とは</h3>
+
+<ul>
+<li>IDを残して文字列のみを更新
+
+<ul>
+<li>grn_patなどでは、削除ー＞別のIDで追加、という仕組みしかなかった</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>まとめ</h3>
+
+<ul>
+<li><p>grn_patの代替</p>
+
+<ul>
+<li>メモリ使用量より参照時間を重視するとき</li>
+</ul>
+</li>
+<li><p>参考：参照ロックフリーなダブル配列</p></li>
+</ul>
+
+
+<h3>ベンチマーク</h3>
+
+<ul>
+<li>wikipediaのタイトル(100万件ぐらい</li>
+<li><p>ランダムに並べ替えて登録</p></li>
+<li><p>参照時間はgrn_pat よりはやい</p></li>
+<li>更新は重くなってしまう。</li>
+<li>メモリ消費量も大きいので、チープなメモリでは使えない。</li>
+</ul>
+
+
+<h3>開発予報</h3>
+
+<ul>
+<li>出現頻度の調整</li>
+<li>不安定なハッシュ表を調整
+
+<ul>
+<li>小規模な場合にインデックス構築が遅いので、改良の余地あり</li>
+</ul>
+</li>
+<li>データをコンパクトに</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

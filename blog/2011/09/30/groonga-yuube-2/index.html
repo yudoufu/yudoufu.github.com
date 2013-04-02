@@ -1,0 +1,914 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>groonga を囲む夕べ 2にいってきた - (」・ω・)」うー!(/・ω・)/にゃー!</title>
+  <meta name="author" content="yudoufu">
+
+  
+  <meta name="description" content="全文検索エンジンgroongaを囲む夕べ 2にいってきたので、そのさいのメモ。
+運営の皆様、会場提供してくださったVoyage Group様、素敵なイベントをありがとうございますm( )m というわけで以下内容のメモ。 groonga村 Overview もう使っていいの？ 今日事例発表あるよ！ &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://yudoufu.github.com/blog/2011/09/30/groonga-yuube-2">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="(」・ω・)」うー!(/・ω・)/にゃー!" type="application/atom+xml">
+  <script type="text/javascript" src="http://s.hatena.ne.jp/js/HatenaStar.js"></script>
+<script type="text/javascript">
+    Hatena.Star.Token = '13ddf8d91a044cc49bfdb2322e3dd5cb99fec59c';
+    Hatena.Star.SiteConfig = {
+        entryNodes: {
+            'article': {
+                uri: 'h1 a',
+                title: 'h1',
+                container: 'p.meta'
+            }
+        }
+    };
+</script>
+<!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">(」・ω・)」うー!(/・ω・)/にゃー!</a></h1>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:yudoufu.github.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+    <h1 class="entry-title"><a href="">Groonga を囲む夕べ 2にいってきた</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-09-30T02:30:00+09:00" pubdate data-updated="true">Sep 30<span>th</span>, 2011</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p><a href="http://atnd.org/events/20446">全文検索エンジンgroongaを囲む夕べ 2</a>にいってきたので、そのさいのメモ。
+運営の皆様、会場提供してくださったVoyage Group様、素敵なイベントをありがとうございますm(<em> </em>)m</p>
+
+<p>というわけで以下内容のメモ。</p>
+
+<h2>groonga村</h2>
+
+<p>Overview</p>
+
+<h3>もう使っていいの？</h3>
+
+<ul>
+<li>今日事例発表あるよ！</li>
+<li>仕事で使ってたら教えて！</li>
+</ul>
+
+
+<h3>groongaの利点</h3>
+
+<ul>
+<li>即時更新</li>
+<li>データを一元管理できる</li>
+<li>SQLで使える</li>
+</ul>
+
+
+<h3>groongaと他との違い</h3>
+
+<h3>gronnga</h3>
+
+<ul>
+<li>全文検索エンジンライブラリ</li>
+<li>組み込んで使う前提</li>
+<li><p>自前のストレージもある</p></li>
+<li><p>DB API</p>
+
+<ul>
+<li>これを経由して各種から利用する</li>
+<li>rroonga
+
+<ul>
+<li>rubyから使うライブラリ</li>
+</ul>
+</li>
+<li>mroonga
+
+<ul>
+<li>MySQLから利用するプラグイン</li>
+<li>今日はベンチマークもあり</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>クエリAPI</p>
+
+<ul>
+<li>groongaに直接クエリ発行</li>
+<li>groongaコマンド
+
+<ul>
+<li>CLIとか。</li>
+</ul>
+</li>
+<li>nroonga
+
+<ul>
+<li>node.js経由でクエリAPIを使う。HTTP経由で使う。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>groonga \w PostgreSQL</p></li>
+</ul>
+
+
+<h2>groonga 新年と収穫のお祭り</h2>
+
+<h3>これまでの開発経緯</h3>
+
+<ul>
+<li>2005年にSennaリリース</li>
+<li>2ch検索のために開発</li>
+<li>即時検索可能に。。。というのを目的にしていたので、当初から動的構築ひとすじ
+
+<ul>
+<li>その後groongaに解明。カラムストア機能をつけた。　</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>索引の動的構築とは</h3>
+
+<ul>
+<li><p>登録した文書を索引に即時反映</p>
+
+<ul>
+<li>当時としては斜め上の考え方</li>
+<li>転地インデックスの動的構築は煩雑</li>
+</ul>
+</li>
+<li><p>静的構築</p>
+
+<ul>
+<li>構築完了した時点で検索完了</li>
+<li>小さい作業領域で高速に検索可能</li>
+</ul>
+</li>
+<li><p>動的更新</p>
+
+<ul>
+<li>常に検索可能</li>
+<li>ランダムI/Oを押さえたり、ロックしないようにするなどの工夫が必要</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>現在</h3>
+
+<ul>
+<li><p>カラムストア機能を追加</p>
+
+<ul>
+<li>トランザクションは苦手だが、集計や圧縮に向いている。</li>
+</ul>
+</li>
+<li><p>最近は静的構築も進めている。</p>
+
+<ul>
+<li>オフラインで作るには性能的に有利</li>
+<li>静的構築もできた方がいいよね。</li>
+</ul>
+</li>
+<li><p>静的構築のアプローチ</p>
+
+<ul>
+<li>転地索引構築の2pass化</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>今後</h3>
+
+<ul>
+<li><p>から無ストアの性能強化</p>
+
+<ul>
+<li>キャッシュを考慮したデータ構造</li>
+<li>高速なファセット検索</li>
+</ul>
+</li>
+<li><p>索引の圧縮方式の拡充</p></li>
+<li><p>類似文字列検索</p>
+
+<ul>
+<li>編集距離・コサイン類似度</li>
+</ul>
+</li>
+<li><p>頻出パターン抽出</p></li>
+<li>ストリーム処理機能
+
+<ul>
+<li>時間窓内での頻出パターン・最大・最小値計算</li>
+</ul>
+</li>
+<li>スキーマレス化</li>
+</ul>
+
+
+<h3>最後に</h3>
+
+<p>開発者募集中！</p>
+
+<h2>mroongaの紹介</h2>
+
+<h3>mroongaとは</h3>
+
+<ul>
+<li><p>MySQLのストレージエンジン</p>
+
+<ul>
+<li>他のストレージエンジンに存在しない全文検索エンジンを追加する事が可能</li>
+</ul>
+</li>
+<li><p>MyISAMと異なり、ロックする事なく参照・更新する事ができる。</p>
+
+<ul>
+<li>最近位置情報をサポート</li>
+<li>ただし、現在は点のみ。</li>
+</ul>
+</li>
+<li><p>ラッパーモード</p>
+
+<ul>
+<li>基本的には、全文インデックスの部分のみmroongaが提供し、その他の部分は既存のストレージエンジンのものを利用する
+
+<ul>
+<li>NULLの制限(groongaがNULLを扱えない)の回避等もできる。</li>
+</ul>
+</li>
+<li>mroongaストレージエンジンが、裏から他のストレージエンジンを利用するイメージ</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>新バージョン</h3>
+
+<ul>
+<li>auto_incrrementの追加</li>
+<li>ラッパーモードの追加</li>
+<li>マルチカラムインデックス追加　
+
+<ul>
+<li>ただし、MySQL以外からもgroongaを利用するようなタンデム構成では整合性を保てなくなるので注意</li>
+</ul>
+</li>
+<li>位置情報検索index追加
+
+<ul>
+<li>現時点では点のみ</li>
+</ul>
+</li>
+<li>全文検索パーサーをカスタマイズできるように。</li>
+<li>rename / alter table対応</li>
+</ul>
+
+
+<h3>Spiderとの連携</h3>
+
+<ul>
+<li>全文検索対応</li>
+<li>位置情報検索index対応
+
+<ul>
+<li>shardingしていてもできる。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>今後</h3>
+
+<ul>
+<li>MariaDBにバンドルされる。</li>
+</ul>
+
+
+<h3>まとめ</h3>
+
+<ul>
+<li>更新と参照が混在する用途に強い</li>
+<li>Spiderと組み合わせてスケールアウトすることができる</li>
+</ul>
+
+
+<h2>Geographical Searching</h2>
+
+<h3>groongaとの歩み</h3>
+
+<ul>
+<li>2008から検索エンジン再構築プロジェクト開始
+
+<ul>
+<li>当時senna</li>
+</ul>
+</li>
+<li>2010 からgroongaを採用
+
+<ul>
+<li>レストラン検索</li>
+<li>地図検索</li>
+<li>駅検索</li>
+<li>GPS検索</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>緯度経度情報検索</h3>
+
+<ul>
+<li>groongaでは矩形と円形の検索
+
+<ul>
+<li>矩形(範囲)検索</li>
+<li>円形(距離)検索</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>距離計算の実現方法</h3>
+
+<ul>
+<li>方形検索</li>
+<li>球面近似</li>
+<li>ヒュベニ
+
+<ul>
+<li>楕円退場で距離を算出する</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>測地系について</h3>
+
+<ul>
+<li>日本測地系</li>
+<li>世界測地系</li>
+</ul>
+
+
+<h3>パフォーマンステスト</h3>
+
+<p>数字色々細かいので割愛。。。</p>
+
+<p>最初のVerから90%ぐらいのパフォマンスアップ！</p>
+
+<h2>groonga with PostgreSQL</h2>
+
+<h3>PostgreSQLの特徴</h3>
+
+<ul>
+<li><p>拡張性の高さ</p>
+
+<ul>
+<li>CでもPL/PGSQLで型も作れたり関数を作れたり。。。</li>
+<li>indexも定義できる</li>
+<li>テーブル定義もできるように(SQL/MED)</li>
+</ul>
+</li>
+<li><p>PGXN</p>
+
+<ul>
+<li>CPANみたいなもの</li>
+<li>探したりインストールしたりするのがずっと楽になる予定</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>textsearch_groonga</h3>
+
+<ul>
+<li>PostgreSQLの方には文書データを入れておく。</li>
+<li>groongaの方でindex関連の情報を持つ</li>
+</ul>
+
+
+<h3>groonga/fdw</h3>
+
+<ul>
+<li><p>SQL/MED</p></li>
+<li><p>FDW</p>
+
+<ul>
+<li>Forigen Data Wrapper</li>
+<li>外部リソースをPostgresのテーブルとして利用できる機能
+
+<ul>
+<li>外部からデータとれる</li>
+</ul>
+</li>
+<li>9.1から</li>
+<li>今は読み込みぐらいだが、シンプルに実装できる
+
+<ul>
+<li>Oracle</li>
+<li>MySQL</li>
+<li>Redis</li>
+<li>etc..</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>groonga_fdw</p>
+
+<ul>
+<li>FDWの機能を使ってgroongaを使う</li>
+<li>開発中</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>どう違う？</h3>
+
+<ul>
+<li>textsearch_groonga
+
+<ul>
+<li>インデックスとしてのみ</li>
+<li>持ってるデータに対して全文検索を張りたい</li>
+</ul>
+</li>
+<li>groonga_fdw
+
+<ul>
+<li>データ自体groongaで持つ感じになる</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>mroongaベンチマーク</h2>
+
+<ul>
+<li>MySQL内でのベンチマーク
+
+<ul>
+<li>全文検索機能</li>
+<li>位置情報検索</li>
+<li>即時更新</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>全文検索</h3>
+
+<ul>
+<li>100万件のtweetに対して１万回のフレーズ検索にかかった時間
+
+<ul>
+<li>mroonga だいぶ早いです。。。</li>
+<li>mroonga + innoDBが割と良い選択肢になりそう</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>位置情報検索</h3>
+
+<ul>
+<li>1100万件の番地データに対して1000回のMBRContains + ORDER BY検索
+
+<ul>
+<li>mroongaそこそこ早いけど、InnoDBと組み合わせるとorder byで読みにいく分の重さでちょっと負ける</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>書き込み</h3>
+
+<ul>
+<li>mroonga単体だとスループット１オーダーぐらい早い。。
+
+<ul>
+<li>ラッパーモードだとInnoDBに引きずられる</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>動的更新の性能</h3>
+
+<ul>
+<li>書き込み量が増加しても、Sphinx等に比べて性能劣化が少ない。</li>
+</ul>
+
+
+<h2>mroongaの未サポート機能</h2>
+
+<h3>文字コード</h3>
+
+<ul>
+<li>UTF-8以外のサポート</li>
+<li>COLLATIONも、NFKC使っていて、MySQLのものをそのまま使えるわけではない。</li>
+</ul>
+
+
+<h3>condition pushdown</h3>
+
+<ul>
+<li>MySQLが使うと判断したindex以外でも使えるように。</li>
+<li>groongaのドリルダウンと組み合わせたい。</li>
+</ul>
+
+
+<h3>位置情報</h3>
+
+<ul>
+<li>点のみ</li>
+<li>0またぎの緯度経度検索ができない</li>
+</ul>
+
+
+<h3>MySQL 5.6から出る正確な位置比較関数</h3>
+
+<ul>
+<li>MBR~はまだつかえない</li>
+</ul>
+
+
+<h3>ストレージモードでのNULL</h3>
+
+<ul>
+<li>ラッパーモードのみ</li>
+</ul>
+
+
+<h3>トランザクション</h3>
+
+<ul>
+<li>mroongaがサポートできていないので、ラッパーモードでInnoDBのトランザクションを使っても、mroongaのindexだけrollbackされなかったりする。</li>
+</ul>
+
+
+<h3>修復ができない</h3>
+
+<ul>
+<li>単純にrepaier tableではだめ。</li>
+<li>色々手順ふむ</li>
+</ul>
+
+
+<h3>Spiderまわり</h3>
+
+<ul>
+<li>parallel searchに未対応</li>
+</ul>
+
+
+<h2>groonga 開発予報</h2>
+
+<h3>grn_datとは</h3>
+
+<ul>
+<li>文字列とIDを関連づけるモジュール</li>
+<li><p>grn_pat grn_hash</p></li>
+<li><p>grn_pat</p>
+
+<ul>
+<li>パトリシアトライ</li>
+<li>前方一致</li>
+</ul>
+</li>
+<li><p>grn_hash</p>
+
+<ul>
+<li>ハッシュ表</li>
+<li>前方一致はサポートしないが高素行</li>
+</ul>
+</li>
+<li><p>grn_dat</p>
+
+<ul>
+<li>だぶる配列</li>
+<li>前方一致検索をサポートする上に速い</li>
+</ul>
+</li>
+<li><p>いずれも参照ロックフリー</p></li>
+</ul>
+
+
+<h3>grn_datの特徴</h3>
+
+<ul>
+<li>前方一致が可能で参照が速い
+
+<ul>
+<li>更新とかにはあまり強くない</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>前方一致検索とは</h3>
+
+<ul>
+<li>Common Prefix Search
+
+<ul>
+<li>クエリから索引語への分割</li>
+</ul>
+</li>
+<li>Predictive Search</li>
+</ul>
+
+
+<h3>文字列更新とは</h3>
+
+<ul>
+<li>IDを残して文字列のみを更新
+
+<ul>
+<li>grn_patなどでは、削除ー＞別のIDで追加、という仕組みしかなかった</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>まとめ</h3>
+
+<ul>
+<li><p>grn_patの代替</p>
+
+<ul>
+<li>メモリ使用量より参照時間を重視するとき</li>
+</ul>
+</li>
+<li><p>参考：参照ロックフリーなダブル配列</p></li>
+</ul>
+
+
+<h3>ベンチマーク</h3>
+
+<ul>
+<li>wikipediaのタイトル(100万件ぐらい</li>
+<li><p>ランダムに並べ替えて登録</p></li>
+<li><p>参照時間はgrn_pat よりはやい</p></li>
+<li>更新は重くなってしまう。</li>
+<li>メモリ消費量も大きいので、チープなメモリでは使えない。</li>
+</ul>
+
+
+<h3>開発予報</h3>
+
+<ul>
+<li>出現頻度の調整</li>
+<li>不安定なハッシュ表を調整
+
+<ul>
+<li>小規模な場合にインデックス構築が遅いので、改良の余地あり</li>
+</ul>
+</li>
+<li>データをコンパクトに</li>
+</ul>
+
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">yudoufu</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-09-30T02:30:00+09:00" pubdate data-updated="true">Sep 30<span>th</span>, 2011</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://yudoufu.github.com/blog/2011/09/30/groonga-yuube-2/" data-via="yudoufu" data-counturl="http://yudoufu.github.com/blog/2011/09/30/groonga-yuube-2/" >Tweet</a>
+  
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+      
+        <a class="basic-alignment right" href="/blog/2011/10/02/ubuntu11-perlbrew/" title="Next Post: Ubuntu 11.10でperlbrewを使ってはまった">Ubuntu 11.10でperlbrewを使ってはまった &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>About Me</h1>
+
+  <p><a href="http://twitter.com/yudoufu">@yudoufu</a>です。</p>
+
+  <p>渋谷辺りでOperation Enginnerしてます。元PHPer。Objective-Cとかもやってました。</p>
+</section>
+<section>
+  <h1><a href="/blog/archives">Recent Posts</a></h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/04/02/jobchange/">株式会社ミクシィを退職し、株式会社クロコスに入社しました。</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/05/22/qpstudy-2012-05/">qpstudy 2012.05 に参加してきた</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/05/13/gitlab-jenkins-combination/">GitLabのリポジトリをJenkinsと連動させる</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/04/28/libvirt-version/">KVMでlibvirt( < 0.8.2) を使って管理をしている場合の、マイグレーション時の注意</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/04/28/vm-mount-memo/">VM disk image の mount 方法いくつかメモ</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+<section>
+  <h1><a href="http://twitter.com/yudoufu">Latest Tweets</a></h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("yudoufu", 5, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/yudoufu" class="twitter-follow-button" data-show-count="false">Follow @yudoufu</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2013 - yudoufu -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'yudoufu';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://yudoufu.github.com/blog/2011/09/30/groonga-yuube-2/';
+        var disqus_url = 'http://yudoufu.github.com/blog/2011/09/30/groonga-yuube-2/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

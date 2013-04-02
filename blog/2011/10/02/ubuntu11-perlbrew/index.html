@@ -1,0 +1,297 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Ubuntu 11.10でperlbrewを使ってはまった - (」・ω・)」うー!(/・ω・)/にゃー!</title>
+  <meta name="author" content="yudoufu">
+
+  
+  <meta name="description" content="デスクトップでUbuntu 11.10を使っていて、perlを入れようと思ってperlbrewをごにょごよしてたら何故かこけてた。 調べてみたら、おんなじはまり方をしている人を発見。 perlbrew on Ubuntu 11.10 つまるところ、Ubuntu 11. &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://yudoufu.github.com/blog/2011/10/02/ubuntu11-perlbrew">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="(」・ω・)」うー!(/・ω・)/にゃー!" type="application/atom+xml">
+  <script type="text/javascript" src="http://s.hatena.ne.jp/js/HatenaStar.js"></script>
+<script type="text/javascript">
+    Hatena.Star.Token = '13ddf8d91a044cc49bfdb2322e3dd5cb99fec59c';
+    Hatena.Star.SiteConfig = {
+        entryNodes: {
+            'article': {
+                uri: 'h1 a',
+                title: 'h1',
+                container: 'p.meta'
+            }
+        }
+    };
+</script>
+<!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">(」・ω・)」うー!(/・ω・)/にゃー!</a></h1>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:yudoufu.github.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+    <h1 class="entry-title"><a href="">Ubuntu 11.10でperlbrewを使ってはまった</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-10-02T22:05:00+09:00" pubdate data-updated="true">Oct 2<span>nd</span>, 2011</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>デスクトップでUbuntu 11.10を使っていて、perlを入れようと思ってperlbrewをごにょごよしてたら何故かこけてた。</p>
+
+<p>調べてみたら、おんなじはまり方をしている人を発見。</p>
+
+<p><a href="http://d.hatena.ne.jp/masa-wo/20111111/1321000387">perlbrew on Ubuntu 11.10</a></p>
+
+<p>つまるところ、Ubuntu 11.04以上のx86_64環境でperlbrewでインストールするには</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>% perlbrew install perl-5.14.2 -Duserthreds -Dplibpth=/usr/lib/x86_64-linux-gnu</span></code></pre></td></tr></table></div></figure>
+
+
+<p>とすればよい。ということ。
+もっと詳しい話はリンク先参照。</p>
+
+<p>助かりました。</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">yudoufu</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-10-02T22:05:00+09:00" pubdate data-updated="true">Oct 2<span>nd</span>, 2011</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://yudoufu.github.com/blog/2011/10/02/ubuntu11-perlbrew/" data-via="yudoufu" data-counturl="http://yudoufu.github.com/blog/2011/10/02/ubuntu11-perlbrew/" >Tweet</a>
+  
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2011/09/30/groonga-yuube-2/" title="Previous Post: groonga を囲む夕べ 2にいってきた">&laquo; groonga を囲む夕べ 2にいってきた</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2011/10/04/nginx-unicorn-redmine/" title="Next Post: nginx + unicorn + redmine のセットアップ">nginx + unicorn + redmine のセットアップ &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>About Me</h1>
+
+  <p><a href="http://twitter.com/yudoufu">@yudoufu</a>です。</p>
+
+  <p>渋谷辺りでOperation Enginnerしてます。元PHPer。Objective-Cとかもやってました。</p>
+</section>
+<section>
+  <h1><a href="/blog/archives">Recent Posts</a></h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/04/02/jobchange/">株式会社ミクシィを退職し、株式会社クロコスに入社しました。</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/05/22/qpstudy-2012-05/">qpstudy 2012.05 に参加してきた</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/05/13/gitlab-jenkins-combination/">GitLabのリポジトリをJenkinsと連動させる</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/04/28/libvirt-version/">KVMでlibvirt( < 0.8.2) を使って管理をしている場合の、マイグレーション時の注意</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/04/28/vm-mount-memo/">VM disk image の mount 方法いくつかメモ</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+<section>
+  <h1><a href="http://twitter.com/yudoufu">Latest Tweets</a></h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("yudoufu", 5, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/yudoufu" class="twitter-follow-button" data-show-count="false">Follow @yudoufu</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2013 - yudoufu -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'yudoufu';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://yudoufu.github.com/blog/2011/10/02/ubuntu11-perlbrew/';
+        var disqus_url = 'http://yudoufu.github.com/blog/2011/10/02/ubuntu11-perlbrew/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
